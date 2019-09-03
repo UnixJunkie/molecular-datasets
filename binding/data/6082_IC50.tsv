@@ -1,0 +1,15 @@
+Gastric inhibitory polypeptide
+MVATKTFALLLLSLFLAVGLGEKKEGHFSALPSLPVGSHAKVSSPQPRGPRYAEGTFISDYSIAMDKIHQQDFVNWLLAQKGKKNDWKHNITQREARALELASQANRKEEEAVEPQSSPAKNPSDEDLLRDLLIQELLACLLDQTNLCRLRSR
+Cn1c(nc2cc(O)ccc12)N(Cc1ccc(cc1)C(=O)Nc1nnn[nH]1)[C@H]1CC[C@@H](CC1)C(C)(C)C	1000
+Cc1cc2nc(N(Cc3ccc(cc3)C(=O)Nc3nnn[nH]3)[C@H]3CC[C@@H](CC3)C(C)(C)C)n(C)c2cc1C	10000
+Cn1c(nc2cc(F)ccc12)N(Cc1ccc(cc1)C(=O)Nc1nnn[nH]1)[C@H]1CC[C@@H](CC1)C(C)(C)C	1000
+COc1ccc2nc(N(Cc3ccc(cc3)C(=O)Nc3nnn[nH]3)[C@H]3CC[C@@H](CC3)C(C)(C)C)n(C)c2c1	1000
+Cn1c(nc2cc(OCc3ccccc3)ccc12)N(Cc1ccc(cc1)C(=O)Nc1nnn[nH]1)[C@H]1CC[C@@H](CC1)C(C)(C)C	1000
+Cn1c(nc2cc(OCC3CCCC3)ccc12)N(Cc1ccc(cc1)C(=O)Nc1nnn[nH]1)[C@H]1CC[C@@H](CC1)C(C)(C)C	1000
+COc1ccc2n(C)c(nc2c1)N(Cc1ccc(cc1)C(=O)Nc1nnn[nH]1)[C@H]1CC[C@@H](CC1)C(C)(C)C	2500
+Cn1c(nc2cc(Cl)c(Cl)cc12)N(Cc1ccc(cc1)C(=O)Nc1nnn[nH]1)[C@H]1CC[C@@H](CC1)C(C)(C)C	3000
+Cn1c(nc2cc(ccc12)C(F)(F)F)N(Cc1ccc(cc1)C(=O)Nc1nnn[nH]1)[C@H]1CC[C@@H](CC1)C(C)(C)C	6000
+CCCOc1ccc2nc(N(Cc3ccc(cc3)C(=O)Nc3nnn[nH]3)[C@H]3CC[C@@H](CC3)C(C)(C)C)n(C)c2c1	4900
+Cn1c(nc2cc(OC3CCCC3)ccc12)N(Cc1ccc(cc1)C(=O)Nc1nnn[nH]1)[C@H]1CC[C@@H](CC1)C(C)(C)C	2000
+CCCOc1ccc2n(C)c(nc2c1)N(Cc1ccc(cc1)C(=O)Nc1nnn[nH]1)[C@H]1CC[C@@H](CC1)C(C)(C)C	3200
+CCOc1ccc2n(C)c(nc2c1)N(Cc1ccc(cc1)C(=O)Nc1nnn[nH]1)[C@H]1CC[C@@H](CC1)C(C)(C)C	2800

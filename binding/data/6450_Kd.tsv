@@ -1,0 +1,13 @@
+Bromodomain protein 4 (BRD4-BD1)
+NPPPPETSNPNKPKRQTNQLQYLLRVVLKTLWKHQFAWPFQQPVDAVKLNLPDYYKIIKTPMDMGTIKKRLENNYYWNAQECIQDFNTMFTNCYIYNKPGDDIVLMAEALEKLFLQKINELPTEE
+Cc1nnc2[C@@H](CC(=O)OC(C)(C)C)N=C(c3c(C)c(C)sc3-n12)c1ccc(Cl)cc1	14.0
+COC(=O)C[C@@H]1N=C(c2c(C)c(sc2-n2c(C)nnc12)C(=O)NCCNC(=O)C[C@@H]1N=C(c2c(C)c(C)sc2-n2c(C)nnc12)c1ccc(Cl)cc1)c1ccc(Cl)cc1	0.034
+COC(=O)C[C@@H]1N=C(c2c(C)c(sc2-n2c(C)nnc12)C(=O)NCCOCCNC(=O)C[C@@H]1N=C(c2c(C)c(C)sc2-n2c(C)nnc12)c1ccc(Cl)cc1)c1ccc(Cl)cc1	0.01
+COC(=O)C[C@@H]1N=C(c2c(C)c(sc2-n2c(C)nnc12)C(=O)NCCOCCOCCNC(=O)C[C@@H]1N=C(c2c(C)c(C)sc2-n2c(C)nnc12)c1ccc(Cl)cc1)c1ccc(Cl)cc1	0.013999999999999999
+COC(=O)C[C@@H]1N=C(c2c(C)c(sc2-n2c(C)nnc12)C(=O)NCCOCCOCCOCCNC(=O)C[C@@H]1N=C(c2c(C)c(C)sc2-n2c(C)nnc12)c1ccc(Cl)cc1)c1ccc(Cl)cc1	0.028999999999999998
+COC(=O)C[C@@H]1N=C(c2c(C)c(sc2-n2c(C)nnc12)C(=O)NCCOCCOCCOCCOCCNC(=O)C[C@@H]1N=C(c2c(C)c(C)sc2-n2c(C)nnc12)c1ccc(Cl)cc1)c1ccc(Cl)cc1	0.023
+COC(=O)C[C@@H]1N=C(c2c(C)c(sc2-n2c(C)nnc12)C(=O)NCCOCCOCCOCCOCCOCCOCCOCCNC(=O)C[C@@H]1N=C(c2c(C)c(C)sc2-n2c(C)nnc12)c1ccc(Cl)cc1)c1ccc(Cl)cc1	0.026000000000000002
+COc1cc2c3n([C@H](C)c4ccccn4)c(=O)n(CC(=O)NCCOCCOCCNC(=O)C[C@@H]4N=C(c5c(C)c(C)sc5-n5c(C)nnc45)c4ccc(Cl)cc4)c3cnc2cc1-c1c(C)noc1C	0.062
+Cc1nnc2[C@H](CC(=O)OC(C)(C)C)N=C(c3c(C)c(C)sc3-n12)c1ccc(Cl)cc1	39.5
+COC(=O)C[C@@H]1N=C(c2c(C)c(sc2-n2c(C)nnc12)C(=O)NCCOCCNC(=O)C[C@@H]1N=C(c2c(C)c(C)sc2-n2c(C)nnc12)c1ccc(Cl)cc1)c1ccc(Cl)cc1	16.7
+Cc1sc-2c(c1C)C(=NC(CC(=O)NCCOCCOCCOCCOCCOCCOCCOCCNC(=O)C[C@@H]1N=C(c3c(C)c(C)sc3-n3c(C)nnc13)c1ccc(Cl)cc1)c1nnc(C)n-21)c1ccc(Cl)cc1	3.09

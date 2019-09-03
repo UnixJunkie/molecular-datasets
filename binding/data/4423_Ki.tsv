@@ -1,0 +1,24 @@
+&#946;-Carbonic anhydrase 3 (CA 3)
+MPLFSFEGRSPRIDPTAFVAPTATLIGDVTIEAGASVWFNAVLRGDYAPVVVREGANVQDGAVLHAPPGIPVDIGPGATVAHLCVIHGVHVGSEALIANHATVLDGAVIGARCMIAAGALVVAGTQIPAGMLVTGAPAKVKGPIEGTGAEMWVNVNPQAYRDLAARHLAGLEPM
+Nc1ccc(cc1Cl)S(=O)(=O)Nc1nnc(s1)S(N)(=O)=O	170.0
+Nc1c(F)cc(cc1Br)S(=O)(=O)Nc1nnc(s1)S(N)(=O)=O	270.0
+Nc1c(F)cc(cc1I)S(=O)(=O)Nc1nnc(s1)S(N)(=O)=O	300.0
+Nc1c(F)cc(cc1Cl)S(N)(=O)=O	3020.0
+Nc1c(F)cc(cc1Br)S(N)(=O)=O	3190.0
+Nc1c(F)cc(cc1I)S(N)(=O)=O	2790.0
+Nc1c(Cl)cc(cc1Cl)S(N)(=O)=O	2660.0
+Nc1c(Cl)cc(cc1Br)S(N)(=O)=O	2690.0
+Nc1c(Cl)cc(cc1I)S(N)(=O)=O	2670.0
+Nc1c(Br)cc(cc1Br)S(N)(=O)=O	2030.0
+NS(=O)(=O)c1nnc(NS(=O)(=O)c2ccccc2)s1	340.0
+OC(=O)c1ccc(Br)cc1	970.0
+OC(=O)c1ccc(I)cc1	140.0
+OC(=O)c1ccc(cc1)C#N	190.0
+CC(=O)Nc1ccc(cc1)C(O)=O	480.0
+OC(=O)c1ccc(cc1)[N+]([O-])=O	520.0
+OC(=O)C1CCCNC1	110.0
+OC(=O)\C=C\c1ccccc1O	120.0
+OC(=O)\C=C\c1ccc(O)cc1	600.0
+OC(=O)\C=C\c1ccc(O)c(O)c1	570.0
+COc1cc(\C=C\C(O)=O)ccc1O	360.0
+Nc1ccc(cc1)S(N)(=O)=O	7110.0

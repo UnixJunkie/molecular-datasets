@@ -1,0 +1,21 @@
+Phospholipase A2 group 1B
+MKLLLLAALLTAGVTAHSISTRAVWQFRNMIKCTIPGSDPLREYNNYGCYCGLGGSGTPVDDLDRCCQTHDHCYNQAKKLESCKFLIDNPYTNTYSYKCSGNVITCSDKNNDCESFICNCDRQAAICFSKVPYNKEYKDLDTKKHC
+O=c1cc(oc2ccccc12)-c1ccc(cc1)-c1cccc(c1)-c1cc(=O)c2ccccc2o1	100000
+Oc1ccc(cc1)-c1cc(=O)c2c(O)cc(O)c(-c3cc(ccc3O)-c3cc(O)c4c(cc(O)cc4=O)o3)c2o1	100000
+O=c1cc(oc2ccc(cc12)-c1ccc2oc(cc(=O)c2c1)-c1ccccc1)-c1ccccc1	100000
+O=c1cc(oc2ccccc12)-c1cccc(c1)-c1ccc2oc(cc(=O)c2c1)-c1ccccc1	100000
+O=c1cc(oc2ccccc12)-c1ccc(cc1)-c1c(oc2ccccc2c1=O)-c1ccccc1	100000
+O=c1cc(oc2ccccc12)-c1ccc(cc1)-c1ccc2oc(cc(=O)c2c1)-c1ccccc1	100000
+O=c1cc(oc2ccccc12)-c1ccc(cc1)-c1ccc(cc1)-c1cc(=O)c2ccccc2o1	100000
+Oc1cc2oc(cc(O)c2c(=O)c1)-c1ccc(Oc2cc(ccc2O)-c2cc(O)c3c(cc(O)cc3=O)o2)cc1	100000
+Cc1ccc(SCCCC(CN)c2ccc(F)cc2)cc1	28300
+NCC(CCCCSc1ccc2ccccc2c1)c1ccc(F)cc1	2400
+CC(C)(C)c1ccc(SCCCCC(CN)c2ccc(F)cc2)cc1	4800
+COc1ccc2n(C(=O)c3ccc(Cl)cc3)c(C)c(CC(O)=O)c2c1	250000
+NC1=NN(CC1)c1cccc(c1)C(F)(F)F	25000
+Cc1ccc(SCCCCCC(CN)c2ccc(F)cc2)cc1	6600
+Cc1ccc(SCCCCC(CN)c2ccc(F)cc2)cc1	5500
+CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12	100000
+Cc1ccc(SCCCC(CN)c2ccc(F)cc2)cc1	54000
+NCC(CCCSc1ccc2ccccc2c1)c1ccc(F)cc1	14000
+C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO	750000

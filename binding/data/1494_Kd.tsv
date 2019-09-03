@@ -1,0 +1,13 @@
+Mdm2
+MCNTNMSVPTDGAVTTSQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDS
+CN1C(=O)C(=C(Cc2ccc(Cl)cc2)C1(O)Cc1ccc(Cl)cc1)c1c[nH]c2cc(Cl)ccc12	56000.0
+CN1C(=O)C(=C(c2c[nH]c3cc(Cl)ccc23)C1(O)Cc1ccc(Cl)cc1)c1ccc(Cl)cc1	51000.0
+CN1C(=O)C(=C(c2ccc(Cl)cc2)C1(O)Cc1ccc(Cl)cc1)c1c[nH]c2cc(Cl)ccc12	192000.0
+CN1C(=O)C(=C(c2cn(C)c3cc(Cl)ccc23)C1(O)Cc1ccc(Cl)cc1)c1ccc(Cl)cc1	365000.0
+CN1C(=O)C(=C(c2ccc(Cl)cc2)C1(O)Cc1ccc(Cl)cc1)c1cn(C)c2cc(Cl)ccc12	246000.0
+OC1N(Cc2ccc(Cl)cc2)C(=O)C(=C1c1c[nH]c2cc(Cl)ccc12)c1ccc(Cl)cc1	164000.0
+OC1N(Cc2ccc(Cl)cc2)C(=O)C(=C1c1ccc(Cl)cc1)c1c[nH]c2cc(Cl)ccc12	40000.0
+OC1(Cc2ccc(Cl)cc2)OC(=O)C(=C1Cc1ccc(Cl)cc1)c1c[nH]c2cc(Cl)ccc12	86000.0
+OC1(Cc2ccc(F)cc2)OC(=O)C(Cc2ccc(Cl)cc2)=C1c1c[nH]c2cc(Cl)ccc12	18000.0
+OC1(Cc2ccc(Cl)cc2)OC(=O)C(=C1c1c[nH]c2cc(Cl)ccc12)c1ccc(Cl)cc1	60000.0
+OC1(Cc2ccc(Cl)cc2)OC(=O)C(=C1c1ccc(Cl)cc1)c1c[nH]c2cc(Cl)ccc12	68000.0

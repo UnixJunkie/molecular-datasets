@@ -1,0 +1,20 @@
+Shikimate kinase
+MQHLVLIGFMGSGKSSLAQELGLALKLEVLDTDMIISERVGLSVREIFEELGEDNFRMFEKNLIDELKTLKTPHVISTGGGIVMHENLKGLGTTFYLKMDFETLIKRLNQKEREKRPLLNNLTQAKELFEKRQALYEKNASFIIDARGGLNNSLKQVLQFIA
+O[C@@H]1C=C(C[C@H]([C@@H]1O)n1cc(Cc2ccccc2)nn1)C(O)=O	95000
+O[C@@H]1C=C(C[C@@H](OCc2ccc3sccc3c2)[C@@H]1O)C(O)=O	560
+O[C@@H]1C=C(C[C@@H](OCc2ccc3ccccc3c2)[C@@H]1O)C(O)=O	1800
+[Na+].O[C@@H]1C=C(C[C@@H](OCc2c(F)c(F)c(F)c(F)c2F)[C@@H]1O)C([O-])=O	41000
+Cc1ccc(CO[C@@H]2CC(=C[C@@H](O)[C@H]2O)C(O)=O)cc1	10900
+[Na+].O[C@@H]1C=C(C[C@@H](OCc2cccc(c2)[N+]([O-])=O)[C@@H]1O)C([O-])=O	460
+Cc1cccc(CO[C@@H]2CC(=C[C@@H](O)[C@H]2O)C(O)=O)c1	2100
+O[C@@H]1C=C(C[C@@H](OCc2cccc(F)c2)[C@@H]1O)C(O)=O	1280
+COc1cccc(CO[C@@H]2CC(=C[C@@H](O)[C@H]2O)C(O)=O)c1	1000
+O[C@@H]1C=C(C[C@@H](OCc2ccccc2)[C@@H]1O)C(O)=O	3000
+O[C@@H]1C=C(C[C@H]([C@@H]1O)n1cc(COc2ccccc2)nn1)C(O)=O	67000
+[Na+].N[C@H]1C=C(C[C@@H](OCc2ccc3ccccc3c2)[C@@H]1O)C([O-])=O	800000
+[Na+].N[C@H]1C=C(C[C@@H](OCc2ccc3sccc3c2)[C@@H]1O)C([O-])=O	535000
+OC(=O)c1cc(Br)ccc1-c1ccc(\C=C2\C(=O)NN(C2=O)c2ccc(Cl)c(Cl)c2)o1	2190
+COc1cc(C=O)ccc1OCc1ccccc1COc1ccc(C=C2SC(S)=NC2=O)cc1OC	9480
+COc1cc(C=O)ccc1OCc1ccccc1COc1ccc(C=C2SC(S)=NC2=O)cc1OC	10670
+COc1cc(C=O)ccc1OCc1ccccc1COc1ccc(C=C2SC(S)=NC2=O)cc1OC	7180
+OC(=O)c1cc(Br)ccc1-c1ccc(\C=C2\C(=O)NN(C2=O)c2ccc(Cl)c(Cl)c2)o1	7920

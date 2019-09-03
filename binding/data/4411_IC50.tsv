@@ -1,0 +1,20 @@
+40S ribosomal protein S27
+MPLAKDLLHPSPEEEKRKHKKKRLVQSPNSYFMDVKCPGCYKITTVFSHAQTVVLCVGCSTVLCQPTGGKARLTEGCSFRRKQH
+CC(C)(C)CNC(=O)CC1CNC(=O)c2cc(cn12)-c1ccsc1	10000.0
+CN1CCN(C[C@@H](NC(=O)C[C@H]2CNC(=O)c3cc(cn23)-c2cccc(Cl)c2)C2CCCCC2)CC1	10000.0
+Nc1nc2c3c(F)cccc3nc(Cc3ccc4OCOc4c3)n2n1	10000.0
+Nc1nc2c3ccc(N)cc3nc(Cc3ccc4OCOc4c3)n2n1	10000.0
+OCCCNc1ccc2c3ncnn3c(nc2c1)-c1ccc2OCOc2c1	10000.0
+Nc1nc2c3ccc(NCCO)cc3nc(Cc3ccc4OCOc4c3)n2n1	10000.0
+CN1CCN(CC1)c1cc(F)c2c3nc(N)nn3c(Cc3ccc4OCOc4c3)nc2c1	10000.0
+CN1CCN(CC1)c1ccc(OC(F)(F)F)c(Nc2nccc(n2)-c2cc(cn2C)C(N)=O)c1	10000.0
+CN1CCN(CC1)c1ccc(OC(F)(F)F)c(Nc2nccc(n2)-c2cc3c(CCNC3=O)n2C)c1	10000.0
+CCOc1nc(cc(N)c1C#N)C(=O)NCc1ccc(cc1)S(C)(=O)=O	568.0
+CCOc1nc(cc(N)c1C#N)C(=O)NCc1ccccc1	529.0
+CCOc1nc(NC(=O)Cc2ccccc2)cc(N)c1C#N	4200.0
+CCOc1nc(NCCc2ccccc2)cc(N)c1C#N	3970.0
+CCOc1nc(Nc2ccccc2)cc(N)c1C#N	228.0
+CCOc1nc(Nc2ccc(cc2)C(N)=O)cc(N)c1C#N	37.0
+CC(C)(C)Nc1nc(Nc2ccc(cc2)C(N)=O)cc(N)c1C#N	6.4
+CCOc1nc(Nc2ccc(cc2)C(N)=O)cc(N)c1C#N	1800.0
+CC(C)(C)Nc1nc(Nc2ccc(cc2)C(N)=O)cc(N)c1C#N	131.0

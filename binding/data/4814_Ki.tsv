@@ -1,0 +1,19 @@
+Gastrin-Releasing peptide
+MRGRELPLVLLALVLCLAPRGRAVPLPAGGGTVLTKMYPRGNHWAVGHLMGKKSTGESSSVSERGSLKQQLREYIRWEEAARNLLGLIEAKENRNHQPPQPKALGNQQPSWDSEDSSNFKDVGSKGKVGRLSAPGSQREGRNPQLNQQ
+CSCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC(N)=O)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@@H]1CCC(=O)N1)C(C)C)C(N)=O	0.36
+CSCC[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(N)=O)NC(=O)CN)[C@@H](C)O)C(N)=O	97.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)c1ccccc1)C(N)=O	151.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)c1ccccc1Cl)C(N)=O	229.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)C[C@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)c1cccc(Cl)c1)C(N)=O	2510.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)c1ccc(Cl)cc1)C(N)=O	1860.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C[C@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)c1ccccc1)C(N)=O	110.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C[C@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)c1ccccc1Cl)C(N)=O	398.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)C[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)c1cccc(Cl)c1)C(N)=O	110.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C[C@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)c1ccc(Cl)cc1)C(N)=O	741.0
+CC(C)[C@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(=O)NCCC(=O)N[C@@H](Cc1cnc[nH]1)C(=O)N[C@@H](Cc1ccccc1)C(=O)NCC(N)C(N)=O	85.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)CCNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)C(N)=O	0.5
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)C(=O)Nc1ccccc1)C(N)=O	397.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)C(O)=O)C(N)=O	396.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C(N)CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)C(N)=O	1.0
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C(CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)NC(C)=O)C(N)=O	1.7
+CCCC[C@H](NC(=O)[C@H](Cc1ccccc1)N[N+](=N)[C@H](Cc1cnc[nH]1)NC(=O)C(CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](N)Cc1ccc(O)cc1)C(C)C)NC(=O)c1ccccc1)C(N)=O	3.1

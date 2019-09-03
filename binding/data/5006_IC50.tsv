@@ -1,0 +1,19 @@
+BRD4-BD1-BD2
+MRTSYLLLFTLCLLLSEMASGGNFLTGLGHRSDHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+Clc1ccc2[nH]c(=O)c(C(=O)\C=C\c3ccccc3)c(-c3ccccc3)c2c1	2430
+COc1ccc(Cn2c3ccc(Cl)cc3c(OS(=O)(=O)c3ccc(C)cc3)c(-c3coc(C)n3)c2=O)cc1	442000
+COc1ccc(Cn2c3ccc(Cl)cc3c(OS(=O)(=O)c3ccccc3)c(-c3coc(C)n3)c2=O)cc1	372000
+COc1ccc(Cn2c3ccc(Cl)cc3c(OS(=O)(=O)c3ccc(F)cc3)c(-c3coc(C)n3)c2=O)cc1	876000
+COc1ccc(Cn2c3ccc(Cl)cc3c(OS(=O)(=O)c3ccc(Cl)cc3)c(-c3coc(C)n3)c2=O)cc1	670000
+COc1ccc(Cn2c3ccc(Cl)cc3c(OS(=O)(=O)c3ccc4ccccc4c3)c(-c3coc(C)n3)c2=O)cc1	139000
+COc1ccc(Cn2c3ccc(Cl)cc3c(OS(=O)(=O)c3cccc4cccnc34)c(-c3coc(C)n3)c2=O)cc1	864000
+COc1ccc(Cn2c3ccc(Cl)cc3c(OS(=O)(=O)c3ccc(cc3)-c3ccccc3)c(-c3coc(C)n3)c2=O)cc1	586000
+Cc1noc(C)c1-c1ccc2[nH]c(=O)c(C(=O)\C=C\c3ccccc3)c(-c3cccnc3)c2c1	11200
+Clc1ccc2[nH]c(=O)c(Sc3nnc(-c4cccs4)n3CC=C)c(-c3ccccc3)c2c1	5800
+COc1ccc(cc1)-c1cc(=O)[nH]c(Sc2c(-c3ccccc3)c3cc(Cl)ccc3[nH]c2=O)n1	6700
+Clc1ccc2[nH]c(=O)c(SC(=S)N3CCOCC3)c(-c3ccccc3)c2c1	7300
+CCN(CC)C(=S)Sc1c(-c2ccccc2)c2cc(Cl)ccc2[nH]c1=O	26800
+Clc1ccc2c(-c3ccccc3)c(Sc3nc4ccccc4s3)c(=O)[nH]c2c1	17300
+CSc1nsc(Sc2c(-c3ccccc3)c3ccc(Cl)cc3[nH]c2=O)n1	23600
+CNC(=S)N1N=C(CC1c1ccccc1)c1c(-c2ccccc2)c2cc(Cl)ccc2[nH]c1=O	16300
+Cc1ccc(cc1)-c1nnc(Sc2c(-c3ccccc3)c3cc(Cl)ccc3[nH]c2=O)n1N	3700

@@ -1,0 +1,20 @@
+Bcl2-antagonist of cell death (BAD)
+MFQIPEFEPSEQEDSSSAERGLGPSPAGDGPSGSGKHHRQAPGLLWDASHQQEQPTSSSHHGGAGAVEIRSRHSSYPAGTEDDEGMGEEPSPFRGRSRSAPPNLWAAQRYGRELRRMSDEFVDSFKKGLPRPKSAGTATQMRQSSSWTRVFQSWWDRNLGRGSSAPSQ
+CN(CCCc1ccccc1)S(=O)(=O)c1cc(C(=O)N2CCc3ccc(cc3C2)S(=O)(=O)NCCc2ccccc2)c(O)c(O)c1O	638.0
+CC(C)Cc1c(O)c(O)c(O)c2c1oc(C)c(-c1ccc(cc1)-c1c(C)oc3c(CC(C)C)c(O)c(O)c(O)c3c1=O)c2=O	1200.0
+CN(C)CC[C@H](CSc1ccccc1)Nc1ccc(cc1[N+]([O-])=O)S(=O)(=O)NC(=O)c1ccc(cc1)N1CCN(CC2=C(CCC(C)(C)C2)c2ccc(Cl)cc2)CC1	1.4
+CN(C)CC[C@H](CSc1ccccc1)Nc1ccc(cc1)S(=O)(=O)NC(=O)c1ccc(cc1)N1CCN(Cc2ccccc2-c2ccc(Cl)cc2)CC1	14.0
+Oc1c(O)c(cc(C(=O)c2cccc3ccccc23)c1O)C(=O)c1ccc(Oc2ccccc2)cc1	1320.0
+Oc1c(O)c(cc(C(=O)c2ccc(Oc3ccccc3)cc2)c1O)C(=O)c1nc2ccccc2s1	1110.0
+OC(=O)[C@H](Cc1ccccc1)N1C(=S)S\C(=C/c2ccc(Br)cc2)C1=O	5250.0
+CCOC(=O)[C@H](Cc1ccccc1)N1C(=S)S\C(=C/c2ccc(Br)cc2)C1=O	176000.0
+Brc1ccc(\C=C2/SC(=S)N([C@@H](Cc3ccccc3)C(=O)OCCOCCOCCOC(=O)[C@H](Cc3ccccc3)N3C(=S)S\C(=C/c4ccc(Br)cc4)C3=O)C2=O)cc1	112000.0
+Brc1ccc(\C=C2/SC(=S)N([C@@H](Cc3ccccc3)C(=O)OCCOCCOC(=O)[C@H](Cc3ccccc3)N3C(=S)S\C(=C/c4ccc(Br)cc4)C3=O)C2=O)cc1	104000.0
+OC(=O)[C@H](Cc1ccccc1)N1C(=S)S\C(=C/c2ccc(OCCOCCOCCOc3ccc(\C=C4/SC(=S)N([C@@H](Cc5ccccc5)C(O)=O)C4=O)cc3)cc2)C1=O	8700.0
+OC(=O)[C@H](Cc1ccccc1)N1C(=S)S\C(=C/c2ccc(OCCOCCOc3ccc(\C=C4/SC(=S)N([C@@H](Cc5ccccc5)C(O)=O)C4=O)cc3)cc2)C1=O	2300.0
+OC(=O)[C@H](Cc1ccccc1)N1C(=S)S\C(=C/c2ccc(OCCOc3ccc(\C=C4/SC(=S)N([C@@H](Cc5ccccc5)C(O)=O)C4=O)cc3)cc2)C1=O	970.0
+CCOC(=O)[C@H](Cc1ccccc1)N1C(=S)S\C(=C/c2ccc(OCOc3ccc(\C=C4/SC(=S)N([C@@H](Cc5ccccc5)C(=O)OCC)C4=O)cc3)cc2)C1=O	58400.0
+Brc1ccc(\C=C2/SC(=S)N([C@@H](Cc3ccccc3)C(=O)OCCOC(=O)[C@H](Cc3ccccc3)N3C(=S)S\C(=C/c4ccc(Br)cc4)C3=O)C2=O)cc1	134000.0
+OC(=O)[C@H](Cc1ccccc1)N1C(=S)S\C(=C/c2ccc(OCOc3ccc(\C=C4/SC(=S)N([C@@H](Cc5ccccc5)C(O)=O)C4=O)cc3)cc2)C1=O	2400.0
+CN(C)CC[C@H](CSc1ccccc1)Nc1ccc(cc1[N+]([O-])=O)S(=O)(=O)NC(=O)c1ccc(cc1)N1CCN(Cc2ccccc2-c2ccc(Cl)cc2)CC1	0.6
+COC1=CC(=N\C1=C/c1[nH]c(C)cc1C)c1cc2ccccc2[nH]1	1000.0

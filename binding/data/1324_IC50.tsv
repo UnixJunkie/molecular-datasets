@@ -1,0 +1,29 @@
+Protein-cysteine N-palmitoyltransferase porcupine
+MATFSRQEFFQQLLQGCLLPTVQQGLDQIWLLLTICFACRLLWRLGLPSYLKHASTVAGGFFSLYHFFQLHMVWVVLLSLLCYLVLFLCRHSSHRGVFLSVTILIYLLMGEMHMVDTVTWHKMRGAQMIVAMKAVSLGFDLDRGEVGAVPSPVEFMGYLYFVGTIVFGPWISFHSYLQAVQGRPLSRRWLKKVARSLALALLCLVLSTCVGPYLFPYFIPLDGDRLLRNKKRKARGTMVRWLRAYESAVSFHFSNYFVGFLSEATATLAGAGFTEEKDHLEWDLTVSRPLNVELPRSMVEVVTSWNLPMSYWLNNYVFKNALRLGTFSAVLVTYAASALLHGFSFHLAAVLLSLAFITYVEHVLRKRLAQILSACILSKRCLPDCSHRHRLGLGVRALNLLFGALAIFHLSYLGSLFDVDVDDTTEEQGYGMAYTVHKWSELSWASHWVTFGCWIFYRLIG
+Cn1c2ncn(CC(=O)Nc3ccc(nn3)-c3ccccc3)c2c(=O)n(C)c1=O	18.0
+Cc1cc(ccn1)-c1ncc(CNC(=O)c2ccc3c(c2)oc2ccccc32)cc1F	3.1
+Cc1cc(ccn1)-c1ccc(CNC(=O)c2ccc3c(c2)[nH]c2ccccc32)cn1	6.2
+Cc1cc(ccn1)-c1ccc(CNC(=O)c2ccc3c(c2)[nH]c2ccccc32)cc1	7.5
+O=C(NCc1ccc-2c(Cc3ccccc-23)c1)c1ccc(cc1)-c1cnccn1	1000.0
+Cc1cc(ccn1)-c1ccc(CNC(=O)c2ccc3c(c2)[nH]c2ccccc32)nc1	18.0
+O=C(NCc1ccc2cnccc2c1)c1ccc2c(c1)[nH]c1ccccc21	207.0
+Cc1cc(ccn1)-c1ncc(CC(=O)Nc2ccc(cn2)-c2cnccn2)cc1C	0.9
+Cc1cc(ccn1)-c1ccc(CNC(=O)c2ccc-3c(Cc4ccccc-34)c2)cc1	35.0
+Cc1cn(cn1)-c1ccc(CNC(=O)c2ccc3c(c2)[nH]c2ccccc32)cc1	119.0
+Cc1cc(ccn1)-c1ccc(CNC(=O)c2ccc(cc2)-c2ccccc2)cc1	1.0
+Cc1cc(ccn1)-c1ncc(CNC(=O)c2ccc3-c4ccccc4C(F)(F)c3c2)cc1F	16.0
+Cc1cc(ccn1)-c1ncc(CNC(=O)c2ccc-3c(Cc4ccccc-34)c2)cc1F	9.2
+Cc1cc(ccn1)-c1ncc(CNC(=O)c2ccc3c(c2)[nH]c2ccccc32)cc1F	0.5
+O=C(NCc1ccc(cc1)-n1ccnc1)c1ccc2c(c1)[nH]c1ccccc21	314.0
+Cn1nccc1-c1ccc(CNC(=O)c2ccc3c(c2)[nH]c2ccccc32)cc1	130.0
+Cc1cc(ccn1)-c1ccc(CNC(=O)c2ccc3c(c2)oc2ccccc32)cc1	9.1
+Cc1cc(ccn1)-c1ccc(CNC(=O)c2ccc3-c4ccccc4C(=O)c3c2)cc1	85.0
+O=C(NCc1ccc2c(c1)oc1ccccc21)c1ccc(cc1)-c1cnccn1	701.0
+Cc1cc(ccn1)-c1ncc(CNC(=O)c2ccc3c(c2)n(C)c2ccccc32)cc1F	175.0
+O=C(NCc1ccc(cc1)-c1ccncc1)c1ccc2c(c1)[nH]c1ccccc21	18.0
+Cc1cc(ccn1)-c1ncc(CNC(=O)c2ccc3c(c2)[nH]c2ccccc32)cc1C	10.0
+Cc1cc(ccn1)-c1ncc(CNC(=O)c2ccc3-c4ccccc4C(=O)c3c2)cc1F	44.0
+O=C(NCc1ccc2cc(ccc2c1)C#N)c1ccc2c(c1)[nH]c1ccccc21	13.0
+Cc1cc(ccn1)-c1ccc(CNC(=O)c2ccc3c(c2)n(C)c2ccccc32)cc1	1000.0
+Cc1cc(ccn1)-c1ccc(CNC(=O)c2ccc3-c4ccccc4C(F)(F)c3c2)cc1	60.0
+O=C(NCc1ccc-2c(Cc3ccccc-23)c1)c1ccc(cc1)-c1ccccc1	1000.0

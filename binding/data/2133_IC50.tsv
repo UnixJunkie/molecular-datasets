@@ -1,0 +1,22 @@
+Group IID secretory phospholipase A2
+MELALLCGLVVMAGVIPIQGGILNLNKMVKQVTGKMPILSYWPYGCHCGLGGRGQPKDATDWCCQTHDCCYDHLKTQGCSIYKDYYRYNFSQGNIHCSDKGSWCEQQLCACDKEVAFCLKRNLDTYQKRLRFYWRPHCRGQTPGC
+CCc1c(Cc2ccccc2-c2ccccc2)n2cccc(OCC(O)=O)c2c1C(=O)C(N)=O	1300
+CC(C)Cc1c(Cc2ccccc2-c2ccccc2)n2cccc(OCC(O)=O)c2c1C(=O)C(N)=O	1600
+CCc1c(Cc2ccccc2-c2ccccc2)n2cccc(OCC(C)=O)c2c1C(=O)C(N)=O	1300
+CCc1c(Cc2ccccc2-c2ccccc2)n2cccc(OC)c2c1C(=O)C(N)=O	1300
+CCc1c(C(=O)C(N)=O)c2c(OCC(=O)NS(=O)(=O)c3ccccc3)cccc2n1Cc1ccccc1	170
+CC(C)Cc1c(C(=O)C(N)=O)c2c(OCC(=O)NS(=O)(=O)c3ccccc3)cccc2n1Cc1ccccc1	700
+CCc1c(C(=O)C(N)=O)c2c(OC(C)C(O)=O)cccc2n1Cc1ccccc1	120
+CCc1c(C(=O)C(N)=O)c2c(OCC(O)=O)cccc2n1Cc1ccccc1	60
+CC(C)Cc1c(C(=O)C(N)=O)c2c(OCC(O)=O)cccc2n1Cc1ccccc1	500
+CCc1c(C(=O)C(N)=O)c2c(OCC(=O)NS(=O)(=O)c3ccccc3)cc3ccccc3c2n1Cc1ccccc1	35
+CC(C)Cc1c(C(=O)C(N)=O)c2c(OCC(=O)NS(=O)(=O)c3ccccc3)cc3ccccc3c2n1Cc1ccccc1	170
+CCc1c(C(=O)C(N)=O)c2c(OCC(O)=O)cc3ccccc3c2n1Cc1ccccc1	7
+CC(C)Cc1c(C(=O)C(N)=O)c2c(OCC(O)=O)cc3ccccc3c2n1Cc1ccccc1	80
+CCc1c(C(=O)C(N)=O)c2c(OC)cc3ccccc3c2n1Cc1ccccc1	80
+CCCCCCCCOC[C@H](CP([O-])(=O)OCCN)P([O-])(=O)CCCCCCC	1500
+CCCCCCCOc1ccc(cc1CC(=O)C(F)(F)F)C(O)=O	1700
+CCCCCCCCCCCCCCCCCCOP(O)(=O)c1cccc2ccc(cc12)C(O)=O	3900
+CCCCCCCCOP(O)(=O)c1cccc2ccc(cc12)C(O)=O	200000
+OC(=O)c1ccc2cccc(C(=O)C(F)(F)F)c2c1	2400
+CCCCCCCCCCOP(O)(=O)c1cc(OCc2ccccc2)ccc1\C=C\C(O)=O	4500

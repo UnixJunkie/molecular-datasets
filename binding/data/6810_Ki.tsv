@@ -1,0 +1,7 @@
+HIV-1 Protease Mutant (I50V)
+pqitlwkrplvtikiggqlkealldtgaddtvieemslpgrwkpkmiggvggfikvrqydqiiieiaghkaigtvlvgptpvniigrnlltqigatlnf
+CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CO[C@H]2OCC[C@@H]12)S(=O)(=O)c1ccc(N)cc1	2.0
+CC(C)(C)NC(=O)[C@@H]1CN(Cc2cccnc2)CCN1C[C@@H](O)C[C@@H](Cc1ccccc1)C(=O)N[C@@H]1[C@H](O)Cc2ccccc12	10.4
+CC(C)(C)NC(=O)[C@@H]1CN(Cc2cccnc2)CCN1C[C@@H](O)C[C@@H](Cc1ccccc1)C(=O)N[C@@H]1[C@H](O)Cc2ccccc12	27.0
+CCCC[C@H](NC(=O)[C@H](C)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](Cc1ccccc1)NC[C@H](CC(C)C)NC(=O)[C@@H](NC(=O)[C@@H](N)CCCNC(N)=N)C(C)C)C(N)=O	230.0
+CCCC[C@@H](CN[C@@H](CCCC)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCCNC(N)=N)C(N)=O)NC(=O)[C@@H](NC(=O)[C@@H](NC(C)=O)[C@@H](C)O)[C@@H](C)CC	41000.0

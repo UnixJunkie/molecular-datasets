@@ -1,0 +1,21 @@
+HIV-1 Protease Mutant M3 (L10I, L63P, A71V, G73S, I84V, L90M)
+PQITLWKRPIVTIRIGGQLKEALLDTGADDTVLEEMNLPGKWKPKMIGGIGGFIKVRQYDQIPIEICGHKVISTVLVGPTPVNVIGRNLMTQIGCTLNF
+COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1cccc(F)c1	4.94
+COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1ccc(F)c(F)c1	8.69
+COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1cccc(c1)C(C)=O	3.36
+COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1ccc(cc1)C(C)=O	1.94
+CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1ccccc1)S(=O)(=O)c1ccc(N)cc1	10.3
+CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1cccc(c1)C(F)(F)F)S(=O)(=O)c1ccc(N)cc1	12.3
+CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1cccc(c1)C(C)=O)S(=O)(=O)c1ccc2OCOc2c1	3.51
+CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)c1ccc(N)cc1	1.4
+CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)COc1c(C)cccc1C)Cc1ccccc1	0.9
+CC(C)[C@H](NC(C)=O)C(=O)N[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1ccccc1)Cc1ccccc1	112.0
+CC(C)[C@H](NC(C)=O)C(=O)N[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1ccc(F)c(F)c1)Cc1ccccc1	282.0
+CC(C)[C@H](NC(C)=O)C(=O)N[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1cccc(c1)C(C)=O)Cc1ccccc1	122.0
+CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1ccccc1)Cc1ccccc1	185.0
+COC(=O)N[C@H](C(=O)N[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1ccccc1)Cc1ccccc1)C(C)(C)C	392.0
+Cc1cccc(C)c1OCC(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1ccccc1	447.0
+COC(=O)N[C@H](C(=O)NN(CC(C)C)C[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CN(C(=O)O1)c1ccccc1)C(C)(C)C	549.0
+CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)c1ccc2ccccc2n1	78.44
+CC(C)[C@H](NC(=O)N(C)Cc1csc(n1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)OCc1cncs1)Cc1ccccc1	2.81
+COC(=O)N[C@H](C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)CN(Cc1ccc(cc1)-c1ccccn1)NC(=O)[C@@H](NC(=O)OC)C(C)(C)C)C(C)(C)C	0.49

@@ -1,0 +1,26 @@
+Platelet-derived growth factor subunit B (PDGFB)
+MNRCWALFLSLCCYLRLVSAEGDPIPEELYEMLSDHSIRSFDDLQRLLHGDPGEEDGAELDLNMTRSHSGGELESLARGRRSLGSLTIAEPAMIAECKTRTEVFEISRRLIDRTNANFLVWPPCVEVQRCSGCCNNRNVQCRPTQVQLRPVQVRKIEIVRKKPIFKKATVTLEDHLACKCETVAAARPVTRSPGGSQEQRAKTPQTRVTIRTVRVRRPPKGKHRKFKHTHDKTALKETLGA
+CCc1cccc(NC(=O)Nc2ccc(cc2)-c2cc3ccccc3n2C(N)=O)c1	10
+COC(=O)c1ccc2cc(-c3ccc(NC(=O)Nc4cccc(C)c4)cc3)n(C(N)=O)c2c1	10
+Cc1cccc(NC(=O)Nc2ccc(cc2)-c2cc3ccccc3n2C(N)=O)c1	14
+CC(C)c1cccc(NC(=O)Nc2ccc(cc2)-c2cc3ccccc3n2C(N)=O)c1	16
+NC(=O)n1c(cc2ccccc12)-c1ccc(NC(=O)Nc2ccc(F)c(Cl)c2)cc1	19
+NC(=O)n1c(cc2ccccc12)-c1ccc(NC(=O)Nc2cccc(c2)C(F)(F)F)cc1	28
+Cc1ccc(F)c(NC(=O)Nc2ccc(cc2)-c2cc3ccccc3n2C(N)=O)c1	20
+COc1cccc(NC(=O)Nc2ccc(cc2)-c2cc3ccccc3n2C(N)=O)c1	12
+NC(=O)n1c(cc2ccccc12)-c1ccc(NC(=O)Nc2cc(ccc2F)C(F)(F)F)cc1	55
+NC(=O)n1c(cc2ccccc12)-c1ccc(NC(=O)Nc2ccccc2)cc1	23
+Cc1ccc(NC(=O)Nc2ccc(cc2)-c2cc3ccccc3n2C(N)=O)cc1	11
+Cc1ccccc1NC(=O)Nc1ccc(cc1)-c1cc2ccccc2n1C(N)=O	118
+NC(=O)n1c(cc2ccccc12)-c1cccc(NC(=O)Nc2cccc(c2)C(F)(F)F)c1	3310
+NC(=O)n1c(cc2ccccc12)-c1cccc(NC(=O)Nc2ccc(F)c(Cl)c2)c1	10000
+Cc1ccc(F)c(NC(=O)Nc2cccc(c2)-c2cc3ccccc3n2C(N)=O)c1	3030
+Cc1cccc(NC(=O)Nc2csc(c2)-c2cc3ccccc3n2C(N)=O)c1	1141
+NC(=O)n1c(cc2ccccc12)-c1cc(NC(=O)Nc2cccc(c2)C(F)(F)F)cs1	152
+CCc1cccc(NC(=O)Nc2csc(c2)-c2cc3ccccc3n2C(N)=O)c1	264
+Cc1ccc(F)c(NC(=O)Nc2csc(c2)-c2cc3ccccc3n2C(N)=O)c1	4608
+NC(=O)n1c(cc2ccccc12)-c1cc(NC(=O)Nc2ccc(F)c(Cl)c2)cs1	10000
+NC(=O)n1c(cc2ccccc12)-c1cc(NC(=O)Nc2ccc(Cl)c(c2)C(F)(F)F)cs1	151
+Cc1ccoc1C(=O)Nc1csc(c1)-c1cc2ccccc2n1C(N)=O	10000
+Cc1ccc(F)c(c1)C(=O)Nc1csc(c1)-c1cc2ccccc2n1C(N)=O	10000
+Fc1ccc(Oc2ccc3nc(NC(=O)C4CC4)sc3c2C#N)cc1NC(=O)Cc1cccc(c1)C(F)(F)F	120

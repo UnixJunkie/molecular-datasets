@@ -1,0 +1,18 @@
+3-dehydroquinate dehydratase
+MKILVIQGPNLNMLGHRDPRLYGMVTLDQIHEIMQTFVKQGNLDVELEFFQTNFEGEIIDKIQESVGSDYEGIIINPGAFSHTSIAIADAIMLAGKPVIEVHLTNIQAREEFRKNSYTGAACGGVIMGFGPLGYNMALMAMVNILAEMKAFQEAQKNNPNNPINNQK
+O[C@@H]1C[C@@](O)(C=C(OCc2cccs2)[C@H]1O)C([O-])=O	920
+Cc1ccc2sc(COC3=C[C@](O)(C[C@@H](O)[C@@H]3O)C([O-])=O)cc2c1	130
+O[C@@H]1C[C@@](O)(C=C(OCc2cc3ccccc3s2)[C@H]1O)C([O-])=O	132
+O[C@@H]1C[C@@](O)(C=C(OCc2ccc3sccc3c2)[C@H]1O)C([O-])=O	166
+Cc1ccc2sc(COC3=C(Cc4cc5cc(C)ccc5s4)[C@](O)(C[C@@H](O)[C@@H]3O)C([O-])=O)cc2c1	50
+O[C@@H]1C[C@](O)(C([O-])=O)C(Cc2ccc3sccc3c2)=C(OCc2ccc3sccc3c2)[C@H]1O	140
+O[C@@H]1C[C@](O)(C([O-])=O)C(Cc2ccc3ccccc3c2)=C(OCc2ccc3ccccc3c2)[C@H]1O	260
+O[C@@H]1C[C@](O)(C([O-])=O)C(Cc2cccs2)=C(OCc2cccs2)[C@H]1O	14600
+O[C@@H]1C[C@](O)(C([O-])=O)C(CC=C)=C(OCc2cc3ccccc3s2)[C@H]1O	1100
+O[C@@H]1C[C@](O)(C([O-])=O)C(Cc2cccs2)=C(OCc2cc3ccccc3s2)[C@H]1O	280
+Cc1ccc2sc(CC3=C(OCc4cccs4)[C@@H](O)[C@H](O)C[C@]3(O)C([O-])=O)cc2c1	279
+O[C@@H]1C[C@](O)(C([O-])=O)C(Cc2ccc3sccc3c2)=C(OCc2cccs2)[C@H]1O	100
+O[C@@H]1C[C@@](O)(C=C(OCc2ccc3ccccc3c2)[C@H]1O)C([O-])=O	310
+O[C@@H]1C[C@](O)(C([O-])=O)C(Cc2cc3ccccc3s2)=C(OCc2cc3ccccc3s2)[C@H]1O	97
+O[C@@H]1C[C@@](O)(C=C(OCc2cc3ccc(Cl)cc3s2)[C@H]1O)C([O-])=O	205
+O[C@@H]1C[C@](O)(C([O-])=O)C(Cc2cc3ccc(Cl)cc3s2)=C(OCc2cc3ccc(Cl)cc3s2)[C@H]1O	6700

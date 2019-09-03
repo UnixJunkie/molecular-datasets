@@ -1,0 +1,21 @@
+E3 ubiquitin-protein ligase (XIAP-BIR2)(C202A/C213G)
+RDHFALDRPSETHADYLLRTGQVVDISDTIYPRNPAMYSEEARLKSFQNWPDYAHLTPRELASAGLYYTGIGDQVQCFACGGKLKNWEPGDRAWSEHRRHFPNCFFVLGRNLNIRSE
+CN[C@@H](C)C(=O)N[C@@H](Cc1ccc(OCc2ccc(cc2)C(=O)N[C@H]2C[C@H](N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)NC2CCCc3ccccc23)cc1)C(=O)N1Cc2ccccc2C[C@H]1C(=O)NC1CCCc2ccccc12	1.11
+CN[C@@H](C)C(=O)N[C@@H](Cc1ccc(OCc2ccc(cc2)C(=O)NC2C[C@H](N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)NC2CCCc3ccccc23)cc1)C(=O)N1CCCC1C(=O)N[C@@H]1CCCc2ccccc12	0.49
+CN[C@@H](C)C(=O)N[C@@H](Cc1ccc(OCc2ccc(cc2)C(=O)NC2C[C@H](N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)NC2CCCc3ccccc23)cc1)C(=O)N1CCCCC1C(=O)N[C@@H]1CCCc2ccccc12	0.46
+CN[C@@H](C)C(=O)N[C@@H](Cc1ccc(OCc2ccc(cc2)C(=O)NC2C[C@H](N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)NC2CCCc3ccccc23)cc1)C(=O)N1CC=CCC1C(=O)N[C@@H]1CCCc2ccccc12	0.22
+CN[C@@H](C)C(=O)N[C@@H](Cc1ccc(OCc2ccc(C(=O)NC3C[C@H](N(C3)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)NC3CCCc4ccccc34)c(F)c2)cc1)C(=O)N1Cc2ccccc2CC1C(=O)N[C@@H]1CCCc2ccccc12	1.84
+CN[C@@H](C)C(=O)N[C@@H](Cc1ccc(Oc2ccc(cc2)C(=O)NC2C[C@H](N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)NC2CCCc3ccccc23)cc1)C(=O)N1Cc2ccccc2CC1C(=O)N[C@@H]1CCCc2ccccc12	1.19
+CN[C@@H](C)C(=O)N[C@@H](Cc1ccc(NCc2ccc(cc2)C(=O)NC2C[C@H](N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)NC2CCCc3ccccc23)cc1)C(=O)N1Cc2ccccc2CC1C(=O)N[C@@H]1CCCc2ccccc12	1.1
+CN[C@@H](C)C(=O)NC(Cc1ccc(OCc2ccc(cc2)C(=O)N[C@H]2C[C@H](N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)NC2CCCc3ccccc23)cc1)C(=O)C1CC=CC[C@H]1C(=O)NC1CCCc2ccccc12	0.72
+CN[C@@H](C)C(=O)NC(Cc1ccc(OCc2ccc(cc2)C(=O)N[C@H]2CC(N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)N[C@@H]2CCCc3ccccc23)cc1)C(=O)C1CC=CC[C@@H]1C(=O)NC1CCCc2ccccc12	0.48
+CN[C@@H](C)C(=O)NC(Cc1ccc(OCc2ccc(cc2)C(=O)N[C@H]2CC(N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)N[C@@H]2CCCc3ccccc23)cc1)C(=O)C1CCCC[C@@H]1C(=O)NC1CCCc2ccccc12	1.7
+CN[C@@H](C)C(=O)NC(Cc1ccc(OCc2ccc(cc2)C(=O)N[C@H]2CC(N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)N[C@@H]2CCCc3ccccc23)cc1)C(=O)C1CCCC[C@@H]1C(=O)NC1CCCc2ccccc12	0.62
+CN[C@@H](C)C(=O)N[C@H](C(=O)N1C[C@H](CC1C(=O)N[C@@H]1CCCc2ccccc12)NC(=O)c1ccc(COc2ccc(CN(NC(=O)[C@H](C)NC)C(=O)C3CCC[C@H]3C(=O)NC3CCCc4ccccc34)cc2)cc1)C(C)(C)C	2.43
+CN[C@@H](C)C(=O)N[C@H](C(=O)N1C[C@H](CC1C(=O)N[C@@H]1CCCc2ccccc12)NC(=O)c1ccc(COc2ccc(CN(NC(=O)[C@H](C)NC)C(=O)C3CCC[C@@H]3C(=O)NC3CCCc4ccccc34)cc2)cc1)C(C)(C)C	1.14
+CN[C@@H](C)C(=O)N[C@H](C(=O)N1C[C@H](CC1C(=O)N[C@@H]1CCCc2ccccc12)NC(=O)c1ccc(COc2ccc(CN(NC(=O)[C@H](C)NC)C(=O)C3CCC[C@H]3C(=O)NC3CCCc4ccccc34)cc2)cc1)C(C)(C)C	2.0
+CN[C@@H](C)C(=O)N[C@H](C(=O)N1C[C@H](CC1C(=O)N[C@@H]1CCCc2ccccc12)NC(=O)c1ccc(COc2ccc(CN(NC(=O)[C@H](C)NC)C(=O)[C@H]3CCCC[C@H]3C(=O)NC3CCCc4ccccc34)cc2)cc1)C(C)(C)C	2.11
+CN[C@@H](C)C(=O)N[C@H](C(=O)N1C[C@H](CC1C(=O)N[C@@H]1CCCc2ccccc12)NC(=O)c1ccc(COc2ccc(CN(NC(=O)[C@H](C)NC)C(=O)[C@@H]3CCCC[C@H]3C(=O)NC3CCCc4ccccc34)cc2)cc1)C(C)(C)C	2.44
+CN[C@@H](C)C(=O)N[C@@H](Cc1ccc(CCc2ccc(cc2)C(=O)NC2C[C@H](N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)NC2CCCc3ccccc23)cc1)C(=O)N1Cc2ccccc2C[C@H]1C(=O)N(C)C1CCCc2ccccc12	2.68
+CN[C@@H](C)C(=O)N[C@@H](Cc1ccc(CCc2ccc(cc2)C(=O)NC2C[C@H](N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)NC2CCCc3ccccc23)cc1)C(=O)N1Cc2ccccc2C[C@H]1C(=O)NC1CCCc2ccccc12	2.21
+CN[C@@H](C)C(=O)N[C@@H](Cc1ccc(\C=C\c2ccc(cc2)C(=O)NC2CC(N(C2)C(=O)[C@@H](NC(=O)[C@H](C)NC)C(C)(C)C)C(=O)N[C@@H]2CCCc3ccccc23)cc1)C(=O)N1Cc2ccccc2CC1C(=O)N[C@@H]1CCCc2ccccc12	1.25

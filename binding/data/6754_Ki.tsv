@@ -1,0 +1,20 @@
+Cathepsin L
+VTPVKNQGQCGSCWAFSATGALEGQMFRKTGRLISLSEQNLVDCSGPQGNEGCNGGLMDYAFQYVQDNGGLDSEESYPYEATEESCKYNPKYSVANDTGFVDIPKQEKALMKAVATVGPISVAIDAGHESFLFYKEGIYFEPDCSSEDMDHGVLVVGYGFESSESDNNKYWLVKN
+CC(C)C[C@H](NC(C)=O)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	1000
+CC(NC(=O)[C@H](Cc1ccccc1)NC(C)=O)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	1000
+CC(C)[C@H](NC(C)=O)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	1000
+CC(C)C[C@H](NC(=O)c1ccc(cc1)C(F)(F)F)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	230
+CC(NC(=O)[C@H](Cc1ccccc1)NC(=O)c1ccc(cc1)C(F)(F)F)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	120
+CC(C)[C@H](NC(=O)c1ccc(cc1)C(F)(F)F)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	1000
+COc1ccc(cc1OC)C(=O)N[C@@H](CC(C)C)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	150
+COc1ccc(cc1OC)C(=O)N[C@@H](Cc1ccccc1)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	53
+COc1ccc(cc1OC)C(=O)N[C@@H](C(C)C)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	1000
+CC(C)C[C@H](NC(=O)c1ccc2ncccc2c1)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	130
+CC(NC(=O)[C@H](Cc1ccccc1)NC(=O)c1ccc2ncccc2c1)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	36
+CC(C)[C@H](NC(=O)c1ccc2ncccc2c1)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	1000
+CC(C)C[C@H](NC(=O)c1ccc2ccccc2n1)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	130
+CC(NC(=O)[C@H](Cc1ccccc1)NC(=O)c1ccc2ccccc2n1)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	110
+CC(C)[C@H](NC(=O)c1ccc2ccccc2n1)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	1000
+CC(C)C[C@H](NC(=O)c1cc2ccccc2s1)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	90
+CC(NC(=O)[C@H](Cc1ccccc1)NC(=O)c1cc2ccccc2s1)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	18
+CC(C)[C@H](NC(=O)c1cc2ccccc2s1)C(=O)NC(C)C(=O)CNC(=O)Cc1cccc(c1)-c1ccccn1	1000

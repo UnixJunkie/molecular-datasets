@@ -1,0 +1,22 @@
+AP-4-A phosphorylase
+MSDEDRTDRATEDHTIFDRGVGQRDQLQRLWTPYRMNYLAEAPVKRDPNSSASPAQPFTEIPQLSDEEGLVVARGKLVYAVLNLYPYNPGHLMVVPYRRVSELEDLTDLESAELMAFTQKAIRVIKNVSRPHGFNVGLNLGTSAGGSLAEHLHVHVVPRWGGDANFITIIGGSKVIPQLLRDTRRLLATEWARQP
+CS\C(Nc1cccc(c1)C(F)(F)F)=C(\C#N)S(=O)(=O)c1ccc(Cl)cc1	260
+CS\C(Nc1ccccc1)=C(\C#N)S(=O)(=O)c1ccccc1	30000
+CS\C(Nc1ccccc1)=C(\C#N)S(=O)(=O)c1ccc(Cl)cc1	100000
+CS\C(Nc1cccc(c1)C(F)(F)F)=C(\C#N)S(=O)(=O)c1ccccc1	120
+CS\C(Nc1ccccc1C(F)(F)F)=C(\C#N)S(=O)(=O)c1ccccc1	100000
+CS\C(Nc1ccc(cc1)C(F)(F)F)=C(\C#N)S(=O)(=O)c1ccccc1	16300
+CS\C(Nc1cc(cc(c1)C(F)(F)F)C(F)(F)F)=C(\C#N)S(=O)(=O)c1ccccc1	100000
+CCS\C(Nc1cc(cc(c1)C(F)(F)F)C(F)(F)F)=C(\C#N)S(=O)(=O)c1ccccc1	1820
+CCCS\C(Nc1cccc(c1)C(F)(F)F)=C(\C#N)S(=O)(=O)c1ccccc1	470
+CC(C)S\C(Nc1cccc(c1)C(F)(F)F)=C(\C#N)S(=O)(=O)c1ccccc1	940
+FC(F)(F)c1cccc(N\C(SCc2ccccc2)=C(/C#N)S(=O)(=O)c2ccccc2)c1	800
+CS\C(Nc1cccc(C)c1)=C(\C#N)S(=O)(=O)c1ccccc1	4620
+CS\C(Nc1cccc(c1)[N+]([O-])=O)=C(\C#N)S(=O)(=O)c1ccccc1	1300
+CS\C(Nc1cccc(c1)C#N)=C(\C#N)S(=O)(=O)c1ccccc1	2510
+COC(=O)c1cccc(N\C(SC)=C(/C#N)S(=O)(=O)c2ccccc2)c1	21800
+CCc1cccc(N\C(SC)=C(/C#N)S(=O)(=O)c2ccccc2)c1	570
+CCCc1cccc(N\C(SC)=C(/C#N)S(=O)(=O)c2ccccc2)c1	960
+CS\C(Nc1cccc(c1)C(C)C)=C(\C#N)S(=O)(=O)c1ccccc1	1770
+COc1cccc(N\C(SC)=C(/C#N)S(=O)(=O)c2ccccc2)c1	11300
+CS\C(Nc1cc(C)cc(C)c1)=C(\C#N)S(=O)(=O)c1ccccc1	100000

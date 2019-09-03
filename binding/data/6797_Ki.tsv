@@ -1,0 +1,21 @@
+Adenosine A2a receptor
+mppraaslppgstcsgcrvlplhpvpahilpeeltaaasrlqvraclsaavptmgswvyitvelaiavlavlgnvlvcwavwlnsnlqnvtnyfvvslaaadiavgvlaipfaitistgfcaachgclfiacfvlvltqssifsllaiaidryiairiplrynglvtgtrakgiiaicwvlsfaigltpmlgwnncgqpregrnhsqgcgagqvaclfedvvpmnymvyynffacvllplllmlgiylriflaarrqlkqmesqplpgertrstlqkevhaakslaiivglfalcwlplhiincftlfcpecshaplwlmylaivlshsnsvvnpfiyayrirefrqtfrkiirshvlrrqdpfkaggtsaralaahgsdgehvslrlnghppglwangsaphpqrrpngyalglgstggarashrdvslpdvellgqerksmcpespgleeplaqdgagvs
+OC[C@H]1OC([C@H](O)[C@@H]1O)n1cnc2c(NC3CCC[C@H]3OCc3ccccc3)ncnc12	476
+Cc1ccc(CO[C@H]2CCCC2Nc2ncnc3n(cnc23)C2O[C@H](CO)[C@@H](O)[C@H]2O)cc1	2530
+OC[C@H]1OC([C@H](O)[C@@H]1O)n1cnc2c(NC3CCCCC3OCc3ccccc3)ncnc12	25400
+OC[C@H]1OC([C@H](O)[C@@H]1O)n1cnc2c(NC3CCCCC3OCc3ccccc3)ncnc12	3740
+Cc1cccc(CO[C@H]2CCCC2Nc2ncnc3n(cnc23)C2O[C@H](CO)[C@@H](O)[C@H]2O)c1	100000
+Cc1ccccc1CO[C@H]1CCCC1Nc1ncnc2n(cnc12)C1O[C@H](CO)[C@@H](O)[C@H]1O	5320
+OC[C@H]1OC([C@H](O)[C@@H]1O)n1cnc2c(NC3CCC[C@@H]3OCc3cccc(F)c3)ncnc12	7330
+OC[C@H]1OC([C@H](O)[C@@H]1O)n1cnc2c(NC3CCC[C@@H]3OCc3ccc(F)cc3)ncnc12	5540
+CC(C)c1ccc(CO[C@H]2CCCC2Nc2ncnc3n(cnc23)C2O[C@H](CO)[C@@H](O)[C@H]2O)cc1	11400
+OC[C@H]1OC([C@H](O)[C@@H]1O)n1cnc2c(NC3CCC[C@@H]3OCc3cccc(I)c3)ncnc12	6830
+COc1cccc(CO[C@H]2CCCC2Nc2ncnc3n(cnc23)C2O[C@H](CO)[C@@H](O)[C@H]2O)c1	2980
+Cc1cccc(CO[C@H]2CCCC2Nc2nc(Cl)nc3n(cnc23)C2O[C@H](CO)[C@@H](O)[C@H]2O)c1	9370
+Cc1ccccc1CO[C@@H]1CCCC1Nc1ncnc2n(cnc12)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O	3370
+OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1cnc2c(NC3CCC[C@H]3OCc3cccc(F)c3)ncnc12	422
+OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1cnc2c(NC3CCC[C@H]3OCc3ccc(F)cc3)ncnc12	2550
+CC(C)c1ccc(CO[C@@H]2CCCC2Nc2ncnc3n(cnc23)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)cc1	3780
+OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1cnc2c(NC3CCC[C@H]3OCc3cccc(I)c3)ncnc12	15600
+COc1cccc(CO[C@@H]2CCCC2Nc2ncnc3n(cnc23)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c1	2770
+Cc1cccc(C)c1CO[C@@H]1CCCC1Nc1ncnc2n(cnc12)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O	2270

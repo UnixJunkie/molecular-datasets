@@ -1,0 +1,26 @@
+Dihydrofolate reductase (DHFR)
+MKVSLIAAMDKNRVIGKENDIPWRIPKDWEYVKNTTKGHPIILGRKNLESIGRALPDRRNIILTRDKGFTFNGCEIVHSIEDVFELCKNEEEIFIFGGEQIYNLFFPYVEKMYITKIHHEFEGDTFFPEVNYEEWNEVFAQKGIKNDKNPYNYYFHVYERKNLLS
+COc1cc(cc(c1)-c1cc(C)cc(C)c1)C(C)C#Cc1c(C)nc(N)nc1N	190.0
+COc1cc(cc(c1)-c1ccc(C)cc1)C(C)C#Cc1c(C)nc(N)nc1N	350.0
+CCc1nc(N)nc(N)c1C#CCc1cc(ccc1OC)-c1ccccc1	5.9
+CCc1nc(N)nc(N)c1C#CCc1cccc(c1)-c1ccccc1	26.0
+CCc1nc(N)nc(N)c1C#CCc1cc(OC)cc(c1)-c1ccccc1	52.0
+COc1ccc(cc1C(C)C#Cc1c(C)nc(N)nc1N)-c1ccccc1	23.0
+CCc1nc(N)nc(N)c1C#CC(C)c1cc(ccc1OC)-c1ccccc1	26.0
+COc1cc(cc(c1)-c1ccncc1)C(C)C#Cc1c(C)nc(N)nc1N	160.0
+CCc1nc(N)nc(N)c1C#CC(C)c1cc(OC)cc(c1)-c1ccncc1	180.0
+CCc1nc(N)nc(N)c1C#CCc1cc(ccc1OC)-c1ccncc1	19.0
+CCc1nc(N)nc(N)c1C#CCc1cc(OC)cc(c1)-c1ccncc1	28.0
+CCc1nc(N)nc(N)c1C#CCc1cccc(c1)-c1ccncc1	30.0
+COc1cc(cc(c1)N1CCOCC1)C(C)C#Cc1c(C)nc(N)nc1N	26.0
+CCc1nc(N)nc(N)c1C#CCc1cccc(c1)-c1cccnc1	47.0
+CCc1nc(N)nc(N)c1C#CCc1cccc(c1)-c1cncnc1	23.0
+COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC	380000.0
+CCc1nc(N)nc(N)c1C#CCc1cc(OC)c(OC)c(c1)-c1ccncc1	450.0
+CCc1nc(N)nc(N)c1C#C[C@@H](C)c1cc(ccc1OC)-c1ccc(cc1)C(O)=O	1400.0
+CCc1nc(N)nc(N)c1C#C[C@@H](C)c1cc(OC)cc(c1)-c1ccc(cc1)C(O)=O	220.0
+CCc1nc(N)nc(N)c1C#C[C@H](C)c1cc(OC)cc(c1)-c1ccc(cc1)C(O)=O	190.0
+CCc1nc(N)nc(N)c1C#CCc1cc(OC)cc(c1)-c1ccc(cc1)C(O)=O	1400.0
+CCc1nc(N)nc(N)c1C#CC(C)c1cc2OCOc2c(c1)-c1ccc(cc1)C(O)=O	87.0
+CCc1nc(N)nc(N)c1C#C[C@@H](C)c1cc2OCOc2c(c1)-c1ccc(cc1)C(O)=O	159.0
+CCc1nc(N)nc(N)c1C#C[C@H](C)c1cc2OCOc2c(c1)-c1ccc(cc1)C(O)=O	190.0

@@ -1,0 +1,30 @@
+Hepsin
+MAQKEGGRTVPCCSRPKVAALTAGTLLLLTAIGAASWAIVAVLLRSDQEPLYPVQVSSADARLMVFDKTEGTWRLLCSSRSNARVAGLSCEEMGFLRALTHSELDVRTAGANGTSGFFCVDEGRLPHTQRLLEVISVCDCPRGRFLAAICQDCGRRKLPVDRIVGGRDTSLGRWPWQVSLRYDGAHLCGGSLLSGDWVLTAAHCFPERNRVLSRWRVFAGAVAQASPHGLQLGVQAVVYHGGYLPFRDPNSEENSNDIALVHLSSPLPLTEYIQPVCLPAAGQALVDGKICTVTGWGNTQYYGQQAGVLQEARVPIISNDVCNGADFYGNQIKPKMFCAGYPEGGIDACQGDSGGPFVCEDSISRTPRWRLCGIVSWGTGCALAQKPGVYTKVSDFREWIFQAIKTHSEASGMVTQL
+[O-][N+](=O)c1cccc(c1)N1C(=O)C=CC1=O	280
+Cc1ccc(OCc2nnc(NC(=O)Nc3cccc(Cl)c3)s2)cc1C	760
+Brc1cccc(c1)N1C(=O)NC(=O)\C(=C/c2c[nH]c3ccccc23)C1=O	1930
+Cc1cccc(c1)C1Nc2cccc3cccc(N1)c23	350
+[O-][N+](=O)c1ccc(cc1)C1Nc2c(cccc2C(F)(F)F)C2C=CCC12	570
+[O-][N+](=O)c1cccc(c1)C1Nc2ccc(Cl)cc2C2C=CCC12	980
+Fc1cccc(c1)-c1nc2ccc(Cc3ccc4nc(oc(=O)c4c3)-c3cccc(F)c3)cc2c(=O)o1	2310
+Clc1ccc(NC(=O)Nc2nnc(s2)-c2ccc(Br)cc2)cc1Cl	720
+Cc1csc(n1)-c1cc2ccc(OCc3c(F)c(F)c(F)c(F)c3F)cc2oc1=O	980
+CC1(C)Cc2oc3c(Br)cc(NS(=O)(=O)c4ccccc4)cc3c2C(=O)C1	930
+COc1cccc(OCCOc2cccc(\C=c3/sc4nc5ccccc5n4c3=O)c2)c1	1310
+Oc1cc(NC(=O)c2ccc(o2)-c2cccc(c2)[N+]([O-])=O)ccc1-c1nc2ccccc2o1	330
+Cc1cccc(CN2CCN(CC2)C(c2ccccc2)c2ccc(Cl)cc2)c1	2020
+CC(C)(Sc1cc(c(O)c(c1)C(C)(C)C)C(C)(C)C)Sc1cc(c(O)c(c1)C(C)(C)C)C(C)(C)C	430
+Oc1cccc2Cc3cccc(O)c3C(=O)c12	230
+CN[C@H](CC(O)=O)C(O)=O	750
+Cc1cccc(c1)C1Nc2cccc3cccc(N1)c23	350
+NC(=N)c1cc2cc([nH]c2cc1Cl)-c1cccc(-c2ccccc2)c1O	2600
+CN1\C(=C\C=C2/CCCC(\C=C\C3=[N+](CCCCCC(=O)NCCCCC(NC(=O)CCCCCCC(=O)NCCCCC(NC(=O)NC(CCC(O)=O)C(O)=O)C(O)=O)C(=O)NCc4ccc(cc4)-c4ccc(O)c(c4)-c4cc5cc(ccc5[nH]4)C(N)=N)c4ccc(cc4C3(C)C)S([O-])(=O)=O)=C2)C(C)(C)c2cc(ccc12)S([O-])(=O)=O	2800
+NC(=N)c1ccc2[nH]c(cc2c1)-c1cc(ccc1O)-c1ccc(cc1)C(F)(F)F	14000
+COc1ccc(cc1)-c1ccc(O)c(c1)-c1cc2cc(ccc2[nH]1)C(N)=N	7300
+NC(=N)c1ccc2[nH]c(cc2c1)-c1cc(ccc1O)-c1ccccc1	8900
+NCc1ccc(cc1)-c1ccc(O)c(c1)-c1cc2cc(ccc2[nH]1)C(N)=N	9300
+CC(C)(C)OC(=O)NCc1ccc(cc1)-c1ccc(O)c(c1)-c1cc2cc(ccc2[nH]1)C(N)=N	11000
+NC(=N)c1ccc2[nH]c(cc2c1)-c1cc(ccc1O)-c1ccc(F)cc1	5900
+NC(=N)c1ccc2[nH]c(cc2c1)-c1ccccc1O	44000
+NC(=N)c1ccc2[nH]c(cc2c1)-c1cc(ccc1O)-c1cccs1	70000
+NC(=N)c1ccc2[nH]c(cc2c1)-c1cc(ccc1O)-c1ccc(Cl)cc1	23000

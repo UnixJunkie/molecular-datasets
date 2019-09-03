@@ -1,0 +1,17 @@
+HIV-1 Protease Mutant K-60C
+pqitlwkrpivtikiggqlkealldtgaddtvleemnlpgrwkpkiiggiggfvkvreydqipveicghkaigtvligptpfnvigrnlmtqlgctlnf
+CC(C)(C)NC(=O)[C@@H]1CN(Cc2cccnc2)CCN1C[C@@H](O)C[C@@H](Cc1ccccc1)C(=O)N[C@@H]1[C@H](O)Cc2ccccc12	61.2
+O[C@@H](C[C@@H](Cc1cccnc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2ccc(o2)-c2ccccc2)C[C@H]1C(=O)NCC(F)(F)F	0.06
+O[C@@H](C[C@@H](Cc1cccnc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2ccn(c2)-c2ccccc2)C[C@H]1C(=O)NCC(F)(F)F	2.7
+CC(C)(C)NC(=O)[C@@H]1CN(Cc2cccnc2)CCN1C[C@@H](O)C[C@@H](Cc1ccccc1)C(=O)N[C@@H]1[C@H](O)Cc2ccccc12	61.2
+CC(C)(N1CCN(C[C@@H](O)C[C@@H](Cc2ccccc2)C(=O)N[C@@H]2[C@H](O)COc3ccccc23)[C@@H](C1)C(=O)NCC(F)(F)F)c1cc2cnccc2o1	5.8
+CC(C)(N1CCN(C[C@@H](O)C[C@@H](Cc2ccccc2)C(=O)N[C@@H]2[C@H](O)COc3ccccc23)[C@@H](C1)C(=O)NCC(F)(F)F)c1ccc(o1)-c1ccncc1	0.3
+O[C@@H](C[C@@H](Cc1ccccc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2ccc(o2)-c2ccncc2)C[C@H]1C(=O)NCC(F)(F)F	0.6
+O[C@@H](C[C@@H](Cc1ccccc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2ccc(o2)-c2cccnc2)C[C@H]1C(=O)NCC(F)(F)F	0.3
+O[C@@H](C[C@@H](Cc1ccccc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2ccc(o2)-c2ccccn2)C[C@H]1C(=O)NCC(F)(F)F	0.5
+O[C@@H](C[C@@H](Cc1ccncc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2ccc(o2)-c2ccccc2)C[C@H]1C(=O)NCC(F)(F)F	0.11
+O[C@@H](C[C@@H](Cc1cccnc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2cc3ccsc3s2)C[C@H]1C(=O)NCC(F)(F)F	5.0
+O[C@@H](C[C@@H](Cc1ccncc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2cc3ccsc3s2)C[C@H]1C(=O)NCC(F)(F)F	20.0
+O[C@@H](C[C@@H](Cc1cccnc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2cc3ccccc3o2)C[C@H]1C(=O)NCC(F)(F)F	3.7
+O[C@@H](C[C@@H](Cc1ccncc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2cc3ccccc3o2)C[C@H]1C(=O)NCC(F)(F)F	10.0
+O[C@@H](C[C@@H](Cc1ccncc1)C(=O)N[C@@H]1[C@H](O)COc2ccccc12)CN1CCN(Cc2cc3cccc(Cl)c3o2)C[C@H]1C(=O)NCC(F)(F)F	0.92

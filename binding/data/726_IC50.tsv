@@ -1,0 +1,21 @@
+Cytochrome b-c1 complex subunit 7
+MAGKQAVSASGKWLDGIRKWYYNAAGFNKLGLMRDDTIYEDEDVKEAIRRLPENLYNDRMFRIKRALDLNLKHQILPKEQWTKYEEENFYLEPYLKEVIRERKEREEWAKK
+Cc1ccc(cc1)S(=O)(=O)Nc1ccc(O)cc1	20000
+CCc1ccc(cc1)S(=O)(=O)Nc1ccc(O)cc1	20000
+CC(C)(C)c1ccc(cc1)S(=O)(=O)Nc1ccc(O)cc1	5000
+CC(C)(C)c1ccc(cc1)S(=O)(=O)Nc1ccc(O)c2ccccc12	20000
+CC(C)(C)c1ccc(cc1)S(=O)(=O)Nc1ccc(O)c2ncccc12	20000
+Oc1ccc(NS(=O)(=O)c2ccc(cc2)-c2ccccc2)cc1	2500
+Oc1ccc(NS(=O)(=O)c2ccc(cc2)-c2ccccc2)cc1F	20000
+Oc1ccc(NS(=O)(=O)c2ccc(cc2)-c2ccccc2)cc1Cl	20000
+OC(=O)c1cc(NS(=O)(=O)c2ccc(cc2)-c2ccccc2)ccc1O	20000
+Oc1ccc(NS(=O)(=O)c2ccc(cc2)-c2ccccc2)c2ccccc12	20000
+Oc1cccc2c(NS(=O)(=O)c3ccc(cc3)-c3ccccc3)cccc12	20000
+Oc1ccc(NS(=O)(=O)c2cc3SC(=O)c4cccc(c2)c34)c2ccccc12	20000
+[O-]c1ccc(NS(=O)(=O)c2ccc(cc2)-c2ccccc2)cc1	5000
+CC(C)(C)c1ccc(cc1)S(=O)(=O)Nc1cccc(O)c1	8000
+CC(C)(C)c1ccc(cc1)S(=O)(=O)Nc1ccccc1O	8000
+Oc1ccc(NS(=O)(=O)c2cccc3cccnc23)cc1	20000
+Oc1ccc(NS(=O)(=O)c2ccc3ccccc3c2)cc1	20000
+Oc1cccc2cccc(NS(=O)(=O)c3ccc(cc3)-c3ccccc3)c12	20000
+Oc1ccc2cccc(NS(=O)(=O)c3ccc(cc3)-c3ccccc3)c2c1	20000

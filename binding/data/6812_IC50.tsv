@@ -1,0 +1,12 @@
+Phosphodiesterase Type 7 (PDE7B)
+qaplhlldedylgqarhmlskvgmwdfdiflfdrltngnslvtllchlfnthglihhfkldmvtlhrflvmvqedyhsqnpyhnavhaadvtqamhcylkepklasfltpldimlgllaaaahdvdhpgvnqpfliktnhhlanlyqnmsvlenhhwrstigmlresrllahlpkemtqdieqqlgslilatdinrqnefltrlkahlhnkdlrledaqdrhfmlqialkcadicnpcriwemskqwservceefyrqgeleqkfeleisplcnqqkdsipsiqigfmsyiveplfrewahftgnstlsenmlghlahnkaqwksllprqhrsrgssgsgpdhdhagqgteseeqegdsp
+COc1cc(ccc1OC(F)F)-c1ccc(=O)[nH]n1	200000
+COc1ccc(cc1OC1CCCC1)C1CNC(=O)C1	200000
+COc1ccc(cc1OC1CCCC1)C(C)=NOC(N)=O	990
+CCCOc1cc(ccc1OC)C1(C)CNC(=O)O1	200000
+COc1ccc(cc1OC1CCCC1)C1(CCC(CC1)C(O)=O)C#N	44000
+FC(F)Oc1ccc(cc1OCC1CC1)C(=O)Nc1c(Cl)cncc1Cl	200000
+COc1ccc(cc1OC1CCCC1)C(=O)Nc1c(Cl)cncc1Cl	8800
+CCCc1nn(C)c2c1nc([nH]c2=O)-c1cc(ccc1OCC)S(=O)(=O)N1CCN(C)CC1	78000
+CCCc1nc(C)c2n1nc([nH]c2=O)-c1cc(ccc1OCC)S(=O)(=O)N1CCN(CC)CC1	1900
+CN1CC(=O)N2[C@H](Cc3c([nH]c4ccccc34)[C@H]2c2ccc3OCOc3c2)C1=O	74000

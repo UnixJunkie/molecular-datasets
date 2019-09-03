@@ -1,0 +1,31 @@
+Calcium release-activated calcium channel
+MHPEPAPPPSRSSPELPPSGGSTTSGSRRSRRRSGDGEPPGAPPPPPSAVTYPDWIGQSYSEVMSLNEHSMQALSWRKLYLSRAKLKASSRTSALLSGFAMVAMVEVQLDADHDYPPGLLIAFSACTTVLVAVHLFALMISTCILPNIEAVSNVHNLNSVKESPHERMHRHIELAWAFSTVIGTLLFLAEVVLLCWVKFLPLKKQPGQPRPTSKPPASGAAANVSTSGITPGQAAAIASTTIMVPFGLIFIVFAVHFYRSLVSHKTDRQFQELNELAEFARLQDQLDHRGDHPLTPGSHYA
+O=C(Nc1ccc(cc1)-n1nc(cc1C1CC1)C1CC1)c1ccc2nn[nH]c2c1	182.5
+O=C(Cn1cnc2ccccc12)Nc1ccc(cc1)-n1nc(cc1C1CC1)C1CC1	383.1
+O=C(Cn1nnc2ccccc12)Nc1ccc(cc1)-n1nc(cc1C1CC1)C1CC1	51.31
+O=C(Cc1ccc2ncccc2c1)Nc1ccc(cc1)-n1nc(cc1C1CC1)C1CC1	146.7
+Fc1cc(NC(=O)Cc2ccc3ncccc3c2)ccc1-n1nc(cc1C1CC1)C1CC1	263.2
+FC(F)(F)c1cc(C2CC2)n(n1)-c1ccc(NC(=O)c2ccc3ncccc3c2)cc1	86.12
+FC(F)(F)c1cc(C2CC2)n(n1)-c1ccc(NC(=O)c2ccc3nccnc3c2)cc1	53.36
+FC(F)(F)c1cc(C2CC2)n(n1)-c1ccc(NC(=O)Cn2nnc3ccccc23)cc1	39.17
+FC(F)(F)c1cc(C2CC2)n(n1)-c1ccc(NC(=O)Cn2nc3ccccc3n2)cc1	139.0
+Fc1cc(NC(=O)Cn2nnc3ccccc23)ccc1-n1nc(cc1C1CC1)C(F)(F)F	160.5
+COc1cc(C)c(cn1)-c1cnc2[nH]c(cc2c1)-c1c(F)cccc1Cl	104.0
+COc1cc(OC)c(cn1)-c1cnc2[nH]c(cc2c1)-c1c(F)cccc1Cl	440.0
+Clc1cc(Cl)c(OCCOc2cccnc2)c(C=O)c1	100000.0
+COc1ccc(OC)c(c1)-c1ccc(cc1)N(C)C(=O)c1ccncc1F	1300.0
+Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1	17000.0
+COCC(=O)O[C@]1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2[C@@H]1C(C)C	100000.0
+Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1	100000.0
+FC(F)(F)c1cc(n(n1)-c1ccc(NC(=O)c2ccc(Cl)cc2)cc1)C(F)(F)F	57000.0
+COc1ccc(CCCCOC(Cn2ccnc2)c2ccc(OC)cc2)cc1	67000.0
+CCC(C)c1ccc(OCCOc2c(Cl)cc(Cl)cc2\C=N\n2cnnc2)cc1	69900.0
+CN(C)c1cccc(c1)C(=O)Nc1ccc(nc1)-n1cnc2ccccc12	48000.0
+COc1ccc(OCC(=O)N2CCN(CC2)C2CCC(CC2)c2ccccc2)cc1	75000.0
+COCC(=O)O[C@]1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2[C@@H]1C(C)C	52100.0
+Cc1nnsc1C(=O)Nc1ccc(cc1)-n1nc(cc1C(F)(F)F)C(F)(F)F	2800.0
+COc1ccc(OC)c(c1)-c1ccc(cc1)N(C)C(=O)c1ccncc1F	26.0
+Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1	27000.0
+Clc1cc(Cl)c(OCCOc2cccnc2)c(C=O)c1	100000.0
+Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1	94000.0
+COc1ccc(CCCCOC(Cn2ccnc2)c2ccc(OC)cc2)cc1	42000.0

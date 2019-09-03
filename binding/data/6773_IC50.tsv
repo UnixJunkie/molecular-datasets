@@ -1,0 +1,12 @@
+Dengue Virus 4 (DENV4) NS2B-NS3 Protease
+dlslekaanvqwdemaditgsspiievkqdedgsfsirdieetnmit
+CC1CNC(=N1)c1ccc(Nc2nnc(Nc3ccc(cc3)C3=NC(C)CN3)c3ccccc23)cc1	32800
+C1CN=C(N1)c1ccc(Nc2nnc(Nc3ccc(cc3)-c3ccccc3)c3ccccc23)cc1	2000
+C1CCC2N=C(NC2C1)c1ccc(Nc2nnc(Nc3ccc(cc3)C3=NC4CCCCC4N3)c3ccccc23)cc1	13600
+C1CN=C(N1)c1ccc(Nc2nnc(Nc3ccc4CCNCc4c3)c3ccccc23)cc1	64800
+NCc1ccc(Nc2nnc(Nc3ccc(cc3)C3=NCCN3)c3ccccc23)cc1	8200
+C1CN=C(N1)c1ccc(Nc2nnc(Nc3ccc4CNCCc4c3)c3ccccc23)cc1	43000
+COC(=O)c1ccc(cc1)-c1ccc(Nc2nnc(Nc3ccc(cc3)C3=NCCN3)c3ccccc23)cc1	1300
+C1CN=C(N1)c1ccc(Nc2nnc(Nc3ccc(cc3)C3=NCCN3)c3ccccc23)cc1	19800
+Nc1ccc2c(Nc3ccc(cc3)C3=NCCN3)nnc(Nc3ccc(cc3)C3=NCCN3)c2c1	100000
+CCCC[C@H](NC(=O)c1ccccc1)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCN=C(N)N)C=O	1400

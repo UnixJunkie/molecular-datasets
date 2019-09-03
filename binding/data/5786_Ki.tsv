@@ -1,0 +1,20 @@
+Thymidylate Synthase (TS)
+MTATIDDQEKNQRSNPDHEEYQYLDLIRRIINVGEVRPDRTGTGTVALFAPPSFRFSLADNTLPLLTTKRVFLRGVIAELLWFVSGCTDAKMLSSQGVGIWDGNGSKEFLEKVGLGHRREGDLGPVYGFQWRHFGAEYTDADGDYKGKGVDQLQRVIDTIKNNPTDRRIILSAWNPKDLPLMALPPCHMFCQFFVSLPPADSPGSKPKLSCLMYQRSCDLGLGVPFNIASYALLTHMIALITDTEPHEFILQMGDAHVYRDHVEPLKTQLEREPRDFPKLKWARSKEEIGDIDGFKVEDFVVEGYKPWGKIDMKMSA
+Oc1ccc(cc1Br)C1(OC(=O)c2ccc(Cl)c3cccc1c23)c1ccc(O)c(Br)c1	4100
+Oc1ccc(cc1)C1(OC(=O)c2ccc3ccccc3c12)c1ccc(O)cc1	400
+Oc1ccc(cc1)C1(OC(=O)c2c1ccc1ccccc21)c1ccc(O)cc1	600
+Oc1ccc(cc1I)C1(OC(=O)c2ccc3ccccc3c12)c1ccc(O)c(I)c1	4500
+Oc1ccc(cc1Br)C1(OC(=O)c2ccc3ccccc3c12)c1ccc(O)c(Br)c1	2700
+Oc1c(Br)cc(cc1Br)C1(OC(=O)c2ccc3ccccc3c12)c1cc(Br)c(O)c(Br)c1	13000
+Oc1ccc(cc1Cl)C1(OC(=O)c2c1ccc1ccccc21)c1ccc(O)c(Cl)c1	8100
+Oc1ccc(cc1F)C1(OC(=O)c2c1ccc1ccccc21)c1ccc(O)c(F)c1	3500
+Oc1ccc(cc1I)C1(OC(=O)c2cccc3cccc1c23)c1ccc(O)c(I)c1	16000
+Oc1ccc(cc1Cl)C1(OC(=O)c2cccc3cccc1c23)c1ccc(O)c(Cl)c1	35000
+Oc1ccc(cc1Cl)C1(OC(=O)c2cccc3c(Cl)ccc1c23)c1ccc(O)c(Cl)c1	9600
+Oc1c(Cl)cc(cc1Cl)C1(OC(=O)c2cccc3cccc1c23)c1cc(Cl)c(O)c(Cl)c1	3300
+Oc1ccc(cc1)C1(OC(=O)c2cccc3cccc1c23)c1ccc(O)c(Br)c1	5200
+Oc1ccc(cc1Br)C1(OC(=O)c2cccc3cccc1c23)c1ccc(O)c(Br)c1	13000
+Oc1c(Br)cc(cc1Br)C1(OC(=O)c2cccc3cccc1c23)c1cc(Br)c(O)c(Br)c1	4000
+Oc1ccc(cc1Br)C1(OC(=O)c2cccc3c(Cl)ccc1c23)c1ccc(O)c(Br)c1	4100
+Oc1ccc(cc1F)C1(OC(=O)c2cccc3cccc1c23)c1ccc(O)c(F)c1	6400
+Oc1ccc(cc1F)C1(OC(=O)c2cccc3c(Cl)ccc1c23)c1ccc(O)c(F)c1	6500

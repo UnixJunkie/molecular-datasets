@@ -1,0 +1,15 @@
+HIV-1 protease
+PQVTLWQRPLVTIRVGGQLKEALLDTGADDTVLEDMNLPGRWKPKMIGGIGGFIKVRQYDQITVEICGHKAIGTVLVGPTPVNIIGRNLLTXIGCTLNF
+CNC(=O)CCC(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(CC1CC1)S(=O)(=O)c1cccc(OC)c1	24.0
+CNC(=O)CCC(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(CC1CC1)S(=O)(=O)c1ccco1	58.0
+COc1cccc(c1)S(=O)(=O)N(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1ccnc(OC)c1)CC1CCCO1	110.0
+C[C@@H](O)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)CC1CCC=C1)S(=O)(=O)c1ccco1	260.0
+CNC(=O)CCC(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(C[C@@H](C)O)S(=O)(=O)c1ccco1	540.0
+CNC(=O)CCC(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(C[C@@H](C)O)S(=O)(=O)c1cccc(OC)c1	760.0
+COc1cc(ccn1)C(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(C[C@H]1CCCO1)S(=O)(=O)c1cn(C)cn1	910.0
+CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)c1ccc(N)cc1	0.1
+CC(C)[C@H](NC(=O)N(C)Cc1csc(n1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)OCc1cncs1)Cc1ccccc1	0.06
+Cc1c(O)cccc1C(=O)N[C@H](CSc1ccccc1)[C@H](O)CN1CC2CCCCC2C[C@H]1C(=O)NC(C)(C)C	0.28
+CC(C)[C@H](N1CCCNC1=O)C(=O)N[C@H](C[C@H](O)[C@H](Cc1ccccc1)NC(=O)COc1c(C)cccc1C)Cc1ccccc1	0.005
+CC(=N[C@@H]1[C@H](O)Cc2ccccc12)[C@H](C[C@H](O)CN1CCN(Cc2cccnc2)C[C@H]1C(=O)NC(C)(C)C)Cc1ccccc1	0.18
+CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)c1ccc2ccccc2n1	0.07

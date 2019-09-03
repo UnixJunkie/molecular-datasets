@@ -1,0 +1,10 @@
+Phospholipase A2 isozyme PLA-A
+HLLQFRKMIKKMTGKEPIVSYAFYGCYCGKGGRGKPKDATDRCCFVHDCCYEKVTGCDPKWSYYTYSLEDGDIVCEGDPYCTKVKCECDKKAAICFRDNLKTYKNRYMTFPDIFCTDPTEGC
+Cc1ccc(cc1)C(=O)Oc1ccc(cc1C)C(=O)c1ccccc1C	75000
+Cc1ccc(OC(=O)c2ccccc2C)c(c1)C(=O)c1ccccc1C	139000
+Cc1cc(ccc1OC(=O)c1ccccc1)C(=O)c1cccc(Cl)c1Cl	89000
+Cc1ccc(OC(=O)c2ccccc2)c(c1)C(=O)c1ccccc1	69000
+Clc1ccc(OC(=O)c2ccccc2)c(c1)C(=O)c1cccc(Cl)c1Cl	46000
+Cc1ccc(OC(=O)c2cccc(Cl)c2)c(c1)C(=O)c1cccc(Cl)c1	2500
+Cc1ccc(cc1)C(=O)Oc1ccc(C)cc1C(=O)c1ccc(C)cc1	108000
+C[C@@H]1CC[C@@]2(CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2[C@H]1C)C(O)=O	2500

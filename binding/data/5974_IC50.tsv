@@ -1,0 +1,19 @@
+Modulator of drug activity A
+MTPTIELTCGHRSIRHFTDEPISEAQREAIINSARATSSSSFLQCSSIIRITDKALREELVTLTGGQKHVAQAAEFWVFCADFNRHLQICPDAQLGLAEQLLLGVVDTAMMAQNALTAAESLGLGGVYIGGLRNNIEAVTKLLKLPQHVLPLFGLCLGWPADNPDLKPRLPSSILVHENSYQPLDKDALAQYDEQLAEYYLTRGSNNRRDTWSDHIRRTIIKESRPFILDYLHKQGWATR
+NC(=O)c1cc(N(CCI)CCI)c(cc1[N+]([O-])=O)[N+]([O-])=O	230.0
+NC(=O)c1cc(cc(c1N(CCCl)CCCl)[N+]([O-])=O)[N+]([O-])=O	7500.0
+NC(=O)c1cc(cc(c1N(CCBr)CCBr)[N+]([O-])=O)[N+]([O-])=O	190.0
+CS(=O)(=O)CCN(CCCl)c1cc(C(N)=O)c(cc1[N+]([O-])=O)[N+]([O-])=O	3400.0
+[O-][N+](=O)c1cnc(s1)N(CCCl)CCCl	207000.0
+NC(=O)c1cc(N2CC2)c(cc1[N+]([O-])=O)[N+]([O-])=O	890.0
+NC(=O)c1cc(N(CCBr)CCBr)c(cc1[N+]([O-])=O)[N+]([O-])=O	250.0
+CS(=O)(=O)CCN(CCS(C)(=O)=O)c1cc(C(N)=O)c(cc1[N+]([O-])=O)[N+]([O-])=O	9300.0
+OCC(O)CNC(=O)c1cc(cc(c1N(CCI)CCI)[N+]([O-])=O)[N+]([O-])=O	4000.0
+CS(=O)(=O)c1cc(c(cc1N(CCCl)CCCl)C(N)=O)[N+]([O-])=O	58000.0
+NC(=O)c1c(ccc(N(CCCl)CCCl)c1[N+]([O-])=O)[N+]([O-])=O	1000000.0
+CN(C)CCNC(=O)c1c(ccc(N(CCCl)CCCl)c1[N+]([O-])=O)[N+]([O-])=O	895000.0
+OCC(O)CNC(=O)c1cc(N(CCI)CCI)c(cc1[N+]([O-])=O)[N+]([O-])=O	1900.0
+OCC(O)CNC(=O)c1cc(cc(c1N(CCCl)CCCl)[N+]([O-])=O)[N+]([O-])=O	13000.0
+NC(=O)c1cc(N(CCCl)CCCl)c(cc1[N+]([O-])=O)[N+]([O-])=O	15000.0
+NC(=O)c1cc(cc(c1N(CCI)CCI)[N+]([O-])=O)[N+]([O-])=O	100.0
+OCC(O)CNC(=O)c1cc(N(CCCl)CCCl)c(cc1[N+]([O-])=O)[N+]([O-])=O	89000.0

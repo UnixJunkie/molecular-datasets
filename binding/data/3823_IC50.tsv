@@ -1,0 +1,12 @@
+Amyloid &#946;-protein (A&#946;42)
+MLPGLALLLLAAWTARALEVPTDGNAGLLAEPQIAMFCGRLN
+O[C@@H]1[C@H](Oc2cc(O)cc(O)c2C1=O)c1cc(O)c(O)c(O)c1	25300.0
+O[C@@H]1[C@H](Oc2cc(O)cc(O)c2C1=O)c1ccc(O)c(O)c1	33000.0
+O[C@@H]1[C@H](Oc2cc(O)cc(O)c2C1=O)c1ccc(O)cc1	500000.0
+O[C@@H]1[C@H](Oc2cc(O)cc(O)c2C1=O)c1ccccc1	500000.0
+Oc1cc(O)c2c(c1)oc(-c1cc(O)c(O)c(O)c1)c(O)c2=O	15100.0
+Oc1cc(O)c2c(c1)oc(-c1ccc(O)c(O)c1)c(O)c2=O	15300.0
+Oc1ccc(cc1)-c1oc2cc(O)cc(O)c2c(=O)c1O	75100.0
+Oc1cc(O)c2c(c1)oc(-c1ccccc1)c(O)c2=O	500000.0
+Oc1ccc(c(O)c1)-c1oc2cc(O)cc(O)c2c(=O)c1O	30300.0
+Oc1cc(O)c2c(c1)oc(c(O)c2=O)-c1ccccc1O	55400.0

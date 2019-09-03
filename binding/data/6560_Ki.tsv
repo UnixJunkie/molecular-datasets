@@ -1,0 +1,12 @@
+HIV-1 protease M2
+PQITLWQRPLVTVKIGGQLREALLDTGADNTVLEDINLPGKWKPKMIGGIGGFIKVKQYEQVLIEICGKKAIGTVLVGPTPVNIIGRDMLTQIGCTLNF
+CC[C@H](C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1cccc(O)c1)S(=O)(=O)c1ccc2ncsc2c1	0.905
+CC[C@H](C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)C(NC(C)=O)[C@@H](C)CC)S(=O)(=O)c1ccc2ncsc2c1	0.027999999999999997
+O[C@H](CN(CC1CCCCC1)S(=O)(=O)c1ccc2ncsc2c1)[C@H](Cc1ccccc1)NC(=O)c1cccc(O)c1	0.38299999999999995
+O[C@H](CN(CCCc1ccccc1)S(=O)(=O)c1ccc2ncsc2c1)[C@H](Cc1ccccc1)NC(=O)c1cccc(O)c1	2.004
+CC[C@H](C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1cccc(O)c1)S(=O)(=O)c1ccc(s1)-c1ccno1	2.951
+COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1cccc(O)c1	0.28300000000000003
+CC[C@H](C)[C@H](NC(C)=O)C(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(CC(C)C)S(=O)(=O)c1ccc(OC)cc1	0.049
+COc1ccc(cc1)S(=O)(=O)N(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1cccc(O)c1)CC1CCCCC1	0.49
+COc1ccc(cc1)S(=O)(=O)N(CCCc1ccccc1)C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1cccc(O)c1	2.543
+CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1cccc(O)c1)S(=O)(=O)c1ccc(s1)-c1ccno1	1.261

@@ -1,0 +1,14 @@
+Von Hippel-Lindau disease tumor suppressor protein (VBC)
+MPRRAENWDEAEVGAEEAGVEEYGPEEDGGEESGAEESGPEESGPEELGAEEEMEAGRPRPVLRSVNSREPSQVIFCNRSPRVVLPVWLNFDGEPQPYPTLPPGTGRRIHSYRGHLWLFRDAGTHDGLLVNQTELFVPSLNVDGQPIFANITLPVYTLKERCLQVVRSLVKPENYRRLDIVRSLYEDLEDHPNVQKDLERLTQERIAHQRMGD
+O=c1c(c[nH]n1-c1ccccn1)-c1cccnc1	430
+OCc1ccc(nc1)-n1[nH]cc(-c2cccnc2)c1=O	860
+Cc1ncccc1-c1c[nH]n(-c2ccccn2)c1=O	760
+Cc1ccnc(c1)-n1[nH]cc(-c2ccc(nc2)C#N)c1=O	180
+NCc1ccnc(c1)-n1[nH]cc(-c2cccnc2)c1=O	2300
+OCc1ccnc(c1)-n1[nH]cc(-c2cccnc2)c1=O	1500
+O=C(Cc1ccccc1)NCc1ccnc(c1)-n1[nH]cc(-c2cccnc2)c1=O	700
+CC(=O)NCc1ccnc(c1)-n1[nH]cc(-c2cccnc2)c1=O	2200
+O=C(NCc1ccnc(c1)-n1[nH]cc(-c2cccnc2)c1=O)c1ccccc1	1900
+Clc1cnn(CCC(=O)NCc2ccnc(c2)-n2[nH]cc(-c3cccnc3)c2=O)c1	1900
+Cc1cc(CC(=O)N2C[C@H](O)C[C@H]2C(=O)NCc2cccc(Cl)c2)on1	117000
+Cc1cc(CC(=O)N2C[C@H](O)C[C@H]2C(=O)NCc2ccc(cc2)-c2cnco2)on1	4100

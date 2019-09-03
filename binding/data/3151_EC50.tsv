@@ -1,0 +1,24 @@
+Probable G-protein coupled receptor 142
+MHLNSNPNSYICDAYQHADLLWSLSPHVLTKAVQPQVTLLPTVNGSNPRYDGVDGHWPESPERSPCVAGIIPVIYYSVLLSLGLPVALARLAARTRKPSYHYLLALTASDIVTQVIIVFVGFLLQGAVLARQVPQAVVRTANILEFAANHASVWIAVLFTVDRYNALCRPLRHRATSSPGRTHRAIAAVIGVTLLTGIPFYWWLDVWRDADPPSTMDKLLKWAHCLIVYFIPCNVFLVTNSAIILRLRKRGQRGLRPLVSKSTAILLGVTSLFALLWAPRIIVMLYHLYVAPVHRDWRVHLALDIANMLAMLNTEVNFGLYCFISKTFRATVRQVICDVHMACALKSQPKQTVVELMLKSVGTEL
+CN(C(=O)Cn1cc(nn1)-c1ccc(cc1)-n1ccnc1C)c1cccc(Cl)c1Cl	20000.0
+Cc1cn(cn1)-c1ccc(cc1F)-c1cn(CC(=O)Nc2cccc(Cl)c2Cl)nn1	78.0
+Clc1cccc(NC(=O)Cn2cc(nn2)-c2ccc(cc2)-n2ccnc2)c1Cl	18.0
+Cc1cn(cn1)-c1ccc(-c2cn(CC(=O)Nc3cccc(Cl)c3Cl)nn2)c(F)c1	19.0
+Cc1cn(cn1)-c1ccc(cc1F)-c1cn(CC(=O)Nc2cccc(Cl)c2Cl)nn1	9.0
+COc1cc(ccc1-n1cnc(C)c1)-c1cn(CC(=O)Nc2cccc3ccccc23)nn1	23.0
+Cc1nccn1-c1ccc(cn1)-c1cn(CC(=O)Nc2cccc(Cl)c2Cl)nn1	8.0
+Cc1cn(cn1)-c1ccc(cc1)-c1cn(CC(=O)Nc2cccc(Cl)c2Cl)nn1	19.0
+Cc1cn(cn1)-c1ccc(-c2cn(CC(=O)Nc3cccc(Cl)c3Cl)nn2)c(F)c1	687.0
+Cc1nccn1-c1ccc(cc1)-c1cn(CC(=O)Nc2cccc(Cl)c2Cl)nn1	3.0
+Cc1cn(cn1)-c1ccc(cc1)-c1cn(CC(=O)Nc2cccc(Cl)c2Cl)nn1	12.0
+COc1cc(ccc1-n1cnc(C)c1)-c1cn(CC(=O)Nc2cccc3ccccc23)nn1	37.0
+COc1cc(ccc1-n1cnc(C)c1)-c1cn(CC(=O)Nc2cccc(C)c2C)nn1	80.0
+Cc1nccn1-c1ccc(cc1)-c1cn(nn1)C(C)(C)C(=O)Nc1cccc(Cl)c1Cl	801.0
+Cc1nccn1-c1ccc(cc1)-c1cn(CC(=O)Nc2cccc(Cl)c2Cl)nn1	27.0
+COc1cc(ccc1-n1cnc(C)c1)-c1cn(CC(=O)Nc2cccc(Cl)c2Cl)nn1	198.0
+Cc1nccn1-c1ccc(cn1)-c1cn(CC(=O)Nc2cccc(Cl)c2Cl)nn1	2.0
+Clc1cccc(NC(=O)Cn2cc(nn2)-c2ccc(cc2)-n2ccnc2)c1Cl	3.0
+COc1cc(ccc1-n1cnc(C)c1)-c1cn(CC(=O)Nc2cccc(Cl)c2Cl)nn1	36.0
+N[C@@H](Cc1ccccc1)C(=O)Nc1cc(c[nH]c1=O)-c1ccncc1	1400.0
+O=C(Nc1cc(c[nH]c1=O)-c1ccncc1)[C@H](Cc1ccccc1)NC1(CC1)c1ccccn1	1.8
+Cn1nc(cc1NC(=O)[C@H](Cc1ccccc1)NCC(O)=O)-c1ccncc1	31.0

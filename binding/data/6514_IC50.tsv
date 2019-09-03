@@ -1,0 +1,32 @@
+Dual specificity mitogen-activated protein kinase kinase 1
+PKKKPTPIQLNPAPDGSAVNGTSSAETNLEAFLTQKQKVGELKDDDFEKISELGAGNGGVVFKVSHKPSGLVMARKLIHLEIKPAIRNQIIRELQVLHECNSPYIVGFYGAFYSDGEISICMEHMDGGSLDQVLKKAGRIPEQILGKVSIAVIKGLTYLREKHKIMHRDVKPSNILVNSRGEIKLCDFGVSGQLIDEMANDFVGTRSYMSPERLQGTHYSVQSDIWSMGLSLVEMAVGRYPIPPPDAKELELMFGCQVEGDAAETPPRPRTPGRPLSSYGMDSRPPMAIFELLDYIVNEPPPKLPSGVFSLEFQDFVNKCLIKNPAERADLKQLMVHAFIKRSDAEEVDFAGWLCSTIGLNQPSTPTHAAGV
+Cn1c2ncn(CCO)c(=O)c2c(Nc2ccc(I)cc2F)cc1=O	10.0
+Cn1c2ncn(C[C@H](O)CO)c(=O)c2c(Nc2ccc(I)cc2F)cc1=O	10.0
+Cc1c(Nc2ccc(Br)cc2F)c2c(ncn(C[C@H](O)CO)c2=O)n(C)c1=O	16.0
+Cn1c2ncn(CCO)c(=O)c2c(Nc2ccc(I)cc2F)c(F)c1=O	10.0
+Cn1c2ncn(C[C@H](O)CO)c(=O)c2c(Nc2ccc(cc2F)C#N)c(F)c1=O	10.0
+Cn1c2ncn(C[C@@H](O)CO)c(=O)c2c(Nc2ccc(NCS(C)(=O)=O)cc2F)c(F)c1=O	16.0
+Cn1c2ncn(C[C@H](O)CO)c(=O)c2c(Nc2ccc(Br)cc2F)c(F)c1=O	10.0
+Cn1cnc2n(C)c(=O)cc(Nc3ccc(I)cc3F)c2c1=O	16.0
+COC(=O)Cn1cnc2n(C)c(=O)cc(Nc3ccc(I)cc3F)c2c1=O	16.0
+Cc1c(Nc2ccc(Br)cc2F)c2c(ncn(C[C@@H](O)CO)c2=O)n(C)c1=O	16.0
+Cc1c(Nc2ccc(Br)cc2F)c2c(ncn(CCO)c2=O)n(C)c1=O	16.0
+Cc1c(Nc2ccccc2F)c2c(ncn(CCO)c2=O)n(C)c1=O	16.0
+Cc1c(Nc2ccc(cc2F)C#C)c2c(ncn(C[C@@H](O)CO)c2=O)n(C)c1=O	10.0
+Cn1c2ncn(C[C@@H](O)CO)c(=O)c2c(Nc2ccc(Br)cc2F)c(F)c1=O	16.0
+Cn1c2ncn(C(CO)CO)c(=O)c2c(Nc2ccc(I)cc2F)cc1=O	10.0
+Cn1c2ncn(OCCO)c(=O)c2c(Nc2ccc(I)cc2F)cc1=O	10.0
+Cn1c2ncn(OC[C@H](O)CO)c(=O)c2c(Nc2ccc(I)cc2F)cc1=O	10.0
+Cn1c2ncn(C[C@@H](O)CO)c(=O)c2c(Nc2ccc(Br)cc2F)c(Cl)c1=O	10.0
+Cn1c2ncn(CCCO)c(=O)c2c(Nc2ccc(Br)cc2F)cc1=O	16.0
+Cn1c2ncn(CCCO)c(=O)c2c(Nc2ccc(Br)cc2F)c(Cl)c1=O	10.0
+Cn1c2ncn(CCCO)c(=O)c2c(Nc2ccc(Br)cc2Cl)cc1=O	16.0
+Cn1c2ncn(CCCO)c(=O)c2c(Nc2ccc(Br)cc2Cl)c(Cl)c1=O	16.0
+CN(C)CCn1cnc2n(C)c(=O)cc(Nc3ccc(I)cc3F)c2c1=O	16.0
+CC(O)Cn1cnc2n(C)c(=O)cc(Nc3ccc(I)cc3F)c2c1=O	16.0
+Cn1c2ncn(C[C@@H](O)CCO)c(=O)c2c(Nc2ccc(I)cc2F)cc1=O	16.0
+CC(O)Cn1cnc2n(C)c(=O)c(Cl)c(Nc3ccc(I)cc3F)c2c1=O	10.0
+Cn1c2ncn(Cc3ccccc3)c(=O)c2c(Nc2ccc(I)cc2F)cc1=O	16.0
+Cc1c(Nc2ccc(I)cc2F)c2c(ncn(C(CO)CO)c2=O)n(C)c1=O	10.0
+Cc1c(Nc2ccc(cc2F)C#C)c2c(ncn(C[C@H](O)CO)c2=O)n(C)c1=O	10.0
+Cc1c(Nc2ccc(I)cc2F)c2c(ncn(C)c2=O)n(C)c1=O	10.0

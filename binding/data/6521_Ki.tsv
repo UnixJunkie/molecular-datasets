@@ -1,0 +1,18 @@
+HIV-2 Protease
+PQFSLWKRPVVTAYIEGQPVEVLLDTGADDSIVAGIELGNNYSPKIVGGIGGFINTKEYKNVEIEVLNKKVRATIMTGDTPINIFGRNILTALGMSLNL
+CC(C)[C@H](NC(=O)c1ccc2ccccc2n1)C(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN1CC[C@H](C[C@H]1C(=O)NC(C)(C)C)OCc1ccncc1	0.13
+CC(C)(C)NC(=O)[C@@H]1CN(Cc2cccnc2)CCN1C[C@@H](O)C[C@@H](Cc1ccccc1)C(=O)N[C@@H]1[C@H](O)Cc2ccccc12	3.3160000000000003
+CCC(Cc1ccccc1)c1cc(O)c(C(CC)c2ccccc2)c(=O)o1	32.0
+CC(C)[C@H](NC(=O)OCc1ccccc1)C(=O)N[C@@H](Cc1ccccc1)C(O)[C@H]1NCc2ccc(OCCOCCNC(=O)C(NC1=O)C(C)C)cc2	19.0
+CC(C)[C@H](NC(=O)OCc1ccccc1)C(=O)N[C@@H](Cc1ccccc1)C(O)[C@H]1NCc2ccc(OCCOCCOCCNC(=O)C(NC1=O)C(C)C)cc2	27.0
+CC(C)C1NC(=O)[C@H](NCc2ccc(OCCOCCNC1=O)cc2)C(O)[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)OCc1ccccc1)C(C)(C)C	16.0
+COc1ccc(CN[C@H](C(O)[C@H](Cc2ccccc2)NC(=O)[C@@H](NC(=O)OCc2ccccc2)C(C)C)C(=O)NC(C(C)C)C(=O)NCc2nc3ccccc3[nH]2)cc1	120.0
+COc1ccc(CN[C@H](C(O)[C@H](Cc2ccccc2)NC(=O)[C@@H](NC(=O)OCc2ccccc2)C(C)(C)C)C(=O)N[C@@H]2C(O)Cc3ccccc23)cc1	50.0
+CC(C)[C@H](NC(=O)OCc1ccccc1)C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)[C@@H](NCc1ccccc1)C(=O)N[C@@H](C(C)C)C(=O)NCc1ccccc1	180.0
+COc1ccc(CN[C@H]([C@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H](NC(=O)OCc2ccccc2)C(C)C)C(=O)N[C@@H](C(C)C)C(=O)NCc2ccccc2)cc1	39.0
+CC(C)[C@H](NC(=O)[C@H](NCc1ccccc1)[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)OCc1ccccc1)C(C)(C)C)C(=O)NCc1ccccc1	54.0
+COc1ccc(CN[C@H]([C@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H](NC(=O)OCc2ccccc2)C(C)C)C(=O)N[C@@H](C(C)C)C(=O)NCc2nc3ccccc3[nH]2)cc1	120.0
+CC(C)[C@H](NC(=O)[C@H](NCc1ccc(Cl)cc1)[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)OCc1ccccc1)C(C)(C)C)C(=O)NCc1nc2ccccc2[nH]1	17.0
+COc1ccc(CN[C@H]([C@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H](NC(=O)OCc2ccccc2)C(C)(C)C)C(=O)N[C@@H](C(C)C)C(=O)NCc2nc3ccccc3[nH]2)cc1	52.0
+COc1ccc(CN[C@H]([C@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H](NC(=O)CCc2ccc(O)cc2)C(C)(C)C)C(=O)N[C@@H](C(C)C)C(=O)NCc2nc3ccccc3[nH]2)cc1	63.0
+COc1ccc(CN[C@H]([C@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H](NC(=O)[C@@](C)(O)c2ccccc2)C(C)(C)C)C(=O)N[C@@H](C(C)C)C(=O)NCc2nc3ccccc3[nH]2)cc1	110.0

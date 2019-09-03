@@ -1,0 +1,29 @@
+Bromodomain-containing protein 3 Bromo 1 domain(BRD3 BD1)
+WKHQFAWPFYQPVDAIKLNLPDYHKIIKNPMDMGTIKKRLENNYYWSASECMQDFNTMFTNCYIYNKPTDDIV
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1ccnc(Cl)c21	144.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1ccncc21	730.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1ccnc(-c3c(C)noc3C)c21	15.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1ccnc(-c3cn[nH]c3)c21	151.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1ccnc(-c3c(C)n[nH]c3C)c21	32.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1ccnc(-c3c(C)nn(C)c3C)c21	38.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1ccnc(-c3cn(nc3C)-c3ccccc3)c21	32.0
+CCc1n[nH]c(CC)c1-c1nccc2[nH]c3cc(-c4c(C)noc4C)c(OC)cc3c12	13.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1ccnc(-c3c(C)[nH]nc3C3CC3)c21	7.3
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1ccnc(-c3c(C)nnc3-c3ccccc3)c21	10.0
+CCc1onc(C)c1-c1cc2[nH]c3ccnc(Cl)c3c2cc1OC	703.0
+CCc1noc(C)c1-c1cc2[nH]c3ccnc(Cl)c3c2cc1OC	668.0
+COc1cc2c(cc1-c1c(C)nnc1C)[nH]c1ccnc(Cl)c21	1219.0
+COc1cc2c(cc1-c1c(C)nn(C)c1C)[nH]c1ccnc(Cl)c21	5029.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3c(C)[nH]c4ccccc34)c21	5.1
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3ccnc4ccccc34)c21	10.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3cccc(c3)C(C)(C)O)c21	6.1
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3ccc(C(=O)NC4CCN(C)CC4)c4ccccc34)c21	9.7
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3ccc(C(=O)NC4CCN(CC4)C4COC4)c4ccccc34)c21	11.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3ccc(C(=O)N4CCN(C)CC4)c4ccccc34)c21	10.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3cc([nH]c3C(C)C)C(=O)NC3CCN(C)CC3)c21	11.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3cc([nH]c3C(C)C)C(=O)NC3CCN(CC3)C3CCOCC3)c21	10.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3cc([nH]c3C(C)C)C(=O)NC3CCN(CC3)C3COC3)c21	14.0
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3cc(cc(c3)C(C)(C)C)C(=O)NC3CCN(C)CC3)c21	6.3
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3cc(cc(c3)C(C)(C)C)C(=O)NC3CCN(CC3)C3COC3)c21	7.7
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3ccc(NC(=O)N4CCN(C)CC4)c4ccccc34)c21	7.5
+COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(-c3ccc(NC(=O)N4CCN(CC4)C4COC4)c4ccccc34)c21	23.0

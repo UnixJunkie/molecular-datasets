@@ -1,0 +1,30 @@
+Induced myeloid leukemia cell differentiation protein Mcl-1 homolog
+MFGLRRNAVIGLNLYCGGASLGAGGGSPAGARLVAEEAKARREGGGEAALLPGARVVARPPPVGAEDPDVTASAERRLHKSPGLLAVPPEEMAASAAAAIVSPEEELDGCEPEAIGKRPAVLPLLERVSEAAKSSGADGSLPSTPPPPEEEEDDLYRQSLEIISRYLREQATGSKDSKPLGEAGAAGRRALETLRRVGDGVQRNHETAFQGMLRKLDIKNEGDVKSFSRVMVHVFKDGVTNWGRIVTLISFGAFVAKHLKSVNQESFIEPLAETITDVLVRTKRDWLVKQRGWDGFVEFFHVQDLEGGIRNVLLAFAGVAGVGAGLAYLIR
+Cc1nn(-c2cccc(Cl)c2)c2nc(cc(C(O)=O)c12)-c1ccco1	13700
+Cc1nn(-c2ccccc2)c2nc(cc(C(O)=O)c12)-c1ccco1	22100
+Cc1nn(C)c2nc(cc(C(O)=O)c12)-c1ccco1	200000
+Cc1nn(-c2ccccc2)c2nc(C)cc(C(O)=O)c12	75700
+Cc1nn(C)c2nc(C)cc(C(O)=O)c12	200000
+Cc1nn(Cc2ccccc2)c2nc(cc(C(O)=O)c12)-c1ccco1	18400
+Cc1nn(Cc2ccc(cc2)-c2ccccc2)c2nc(cc(C(O)=O)c12)-c1ccco1	7300
+Cc1nn(Cc2ccc(Oc3ccccc3)cc2)c2nc(cc(C(O)=O)c12)-c1ccco1	1520
+Cc1nn(Cc2cccc(Oc3ccccc3)c2)c2nc(cc(C(O)=O)c12)-c1ccco1	7300
+Cc1nn(Cc2ccccc2Oc2ccccc2)c2nc(cc(C(O)=O)c12)-c1ccco1	10700
+Cc1nn(Cc2ccc(Oc3ccc(F)cc3)cc2)c2nc(cc(C(O)=O)c12)-c1ccco1	4680
+Cc1nn(Cc2ccc(Oc3cc(C)c(Cl)c(C)c3)cc2)c2nc(cc(C(O)=O)c12)-c1ccco1	670
+Cc1nn(Cc2ccc(Oc3cccc4ccccc34)cc2)c2nc(cc(C(O)=O)c12)-c1ccco1	1280
+Cc1nn(-c2ccc(Oc3ccccc3)cc2)c2nc(cc(C(O)=O)c12)-c1ccco1	4270
+Cc1nn(Cc2ccc(Oc3ccccc3)cc2)c2nc(C)cc(C(O)=O)c12	17260
+Cc1nn(Cc2ccc(Oc3ccccc3)cc2)c2nc(NCc3ccco3)cc(C(O)=O)c12	12400
+Cc1nn(Cc2ccc(Oc3ccccc3)cc2)c2nc(\C=C\c3ccccc3)cc(C(O)=O)c12	1110
+Cc1nn(Cc2ccc(Oc3ccccc3)cc2)c2nc(cc(C(O)=O)c12)C#Cc1ccccc1	6300
+Cc1nn(Cc2ccc(Oc3ccccc3)cc2)c2nc(CCc3ccccc3)cc(C(O)=O)c12	2540
+Cc1nn(Cc2ccc(Oc3ccccc3)cc2)c2nc(cc(C(O)=O)c12)-c1ccc(F)cc1	10850
+Cc1nn(Cc2ccc(Oc3ccccc3)cc2)c2nc(cc(C(O)=O)c12)-c1ccccc1	7970
+Cc1nn(Cc2ccc(Oc3ccccc3)cc2)c2nc(cc(C(O)=O)c12)-c1cccs1	6760
+Cc1nn(Cc2ccc(Oc3ccc(F)cc3)cc2)c2nc(cc(C(O)=O)c12)-c1ccc(F)cc1	4510
+COc1ccccc1C1C2=C(N=c3s\c(=C/c4cccc(OCC(O)=O)c4)c(=O)n13)c1ccccc1CC2	6400
+COc1ccc(cc1)C1C2=C(N=c3s\c(=C/c4ccc(OCc5cccc(c5)C(O)=O)c(OC)c4)c(=O)n13)c1ccccc1CC2	8600
+OC(=O)c1cccc(c1)-c1ccc(\C=c2/sc3=NC4=C(CCc5ccccc45)C(c4cccc(F)c4)n3c2=O)o1	18600
+COc1ccc(cc1)C1C2=C(N=c3s\c(=C/c4ccc(o4)-c4cccc(c4)C(O)=O)c(=O)n13)c1ccccc1CC2	19200
+COc1cccc(c1)C1C2=C(N=c3s\c(=C/c4ccc(o4)-c4cccc(c4)C(O)=O)c(=O)n13)c1ccccc1CC2	34400

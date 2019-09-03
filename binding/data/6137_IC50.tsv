@@ -1,0 +1,37 @@
+Phenylalanyl-tRNA synthetase mitochondrial
+MVGSALRRGAHAYVYLVSKASHISRGHQHQAWGSRPPAAECATQRAPGSVVELLGKSYPQDDHSNLTRKVLTRVGRNLHNQQHHPLWLIKERVKEHFYKQYVGRFGTPLFSVYDNLSPVVTTWQNFDSLLIPADHPSRKKGDNYYLNRTHMLRAHTSAHQWDLLHAGLDAFLVVGDVYRRDQIDSQHYPIFHQLEAVRLFSKHELFAGIKDGESLQLFEQSSRSAHKQETHTMEAVKLVEFDLKQTLTRLMAHLFGDELEIRWVDCYFPFTHPSFEMEINFHGEWLEVLGCGVMEQQLVNSAGAQDRIGWAFGLGLERLAMILYDIPDIRLFWCEDERFLKQFCVSNINQKVKFQPLSKYPAVINDISFWLPSENYAENDFYDLVRTIGGDLVEKVDLIDKFVHPKTHKTSHCYRITYRHMERTLSQREVRHIHQALQEAAVQLLGVEGRF
+Oc1c2C(OC3(C(=O)c4ccccc4C3=O)c2c(O)n1-c1ccc(Cl)c(Cl)c1)c1ccccc1	100000
+Cc1ccc(cc1Cl)-n1c(O)c2C(OC3(C(=O)c4ccccc4C3=O)c2c1O)c1ccccc1	100000
+Oc1c2C(NC(c2c(O)n1-c1ccc(Cl)c(Cl)c1)c1ccccc1)C(=O)c1ccccc1	100000
+Cc1ccc(cc1Cl)-n1c(O)c2C(NC3(C(=O)c4ccccc4C3=O)c2c1O)c1ccccc1	100000
+Oc1c2C(NC(c2c(O)n1-c1ccc(Cl)c(Cl)c1)c1ccccc1)C(=O)c1ccccc1	100000
+Oc1c2C(NC3(Cc4ccccc4C3)c2c(O)n1-c1ccc(Cl)c(Cl)c1)c1ccccc1	100000
+OC1c2ccccc2C2OC(=O)[C@@H]3[C@@H]([C@@H](O[C@@]123)c1ccccc1)C(=O)Nc1ccc(Cl)c(Cl)c1	4900
+Oc1c2[C@@H](OC3(C(=O)c4ccccc4C3=O)c2c(O)n1-c1ccc(Cl)c(Cl)c1)c1ccccc1	5000
+OC(=O)[C@@H]1[C@@H]([C@@H](OC11C(=O)c2ccccc2C1=O)c1ccccc1)C(=O)Nc1ccc(Cl)c(Cl)c1	33000
+O[C@@H]1c2ccccc2[C@@H]2OC(=O)[C@H]3[C@H]([C@@H](O[C@@]123)c1ccccc1)C(=O)Nc1ccc(Cl)c(Cl)c1	470
+O[C@H]1c2ccccc2[C@@H]2OC(=O)[C@H]3[C@H]([C@@H](O[C@@]123)c1ccccc1)C(=O)Nc1ccc(Cl)c(Cl)c1	170
+Oc1c2[C@@H](OC3(C(=O)c4ccccc4C3=O)c2c(O)n1-c1ccc(Cl)c(Cl)c1)c1ccccc1	2000
+OC1c2ccccc2C2OC(=O)[C@@H]3[C@@H]([C@@H](O[C@@]123)c1ccccc1)C(=O)Nc1ccc(Cl)c(Cl)c1	15000
+Oc1c2C(OC3(C(=O)c4ccccc4C3=O)c2c(O)n1-c1ccc(Cl)c(c1)C(F)(F)F)c1ccccc1	100000
+Oc1c2C(OC3(C(=O)c4ccccc4C3=O)c2c(O)n1-c1ccc(Cl)c(Cl)c1)c1ccccc1	100000
+Oc1c2C(NC3(C(=O)c4ccccc4C3=O)c2c(O)n1-c1ccc(Cl)c(Cl)c1)c1ccccc1	100000
+COc1ccccc1-n1c(O)c2C(OC3(C(=O)c4ccccc4C3=O)c2c1O)c1ccccc1	100000
+Oc1c2C(NC3(Cc4ccccc4C3)c2c(O)n1-c1ccc(Cl)c(Cl)c1)c1ccccc1	100000
+Cc1ccc(cc1Cl)-n1c(O)c2C(OC3(C(=O)c4ccccc4C3=O)c2c1O)c1ccccc1	100000
+Cc1ccc(cc1Cl)-n1c(O)c2C(NC3(C(=O)c4ccccc4C3=O)c2c1O)c1ccccc1	100000
+Oc1c2C(OC3(C(=O)c4ccccc4C3=O)c2c(O)n1-c1ccc(Cl)c(c1)C(F)(F)F)c1ccc(Cl)cc1	100000
+COc1ccc(cc1)-n1c(O)c2C(OC3(C(=O)c4ccccc4C3=O)c2c1O)c1ccccc1	100000
+COc1ccccc1-n1c(O)c2C(OC3(C(=O)c4ccccc4C3=O)c2c1O)c1ccccc1C	100000
+Oc1c2C(OC3(C(=O)c4ccccc4C3=O)c2c(O)n1-c1ccc2OCOc2c1)c1ccccc1	100000
+Oc1c2C(OC3(C(=O)c4ccccc4C3=O)c2c(O)n1-c1ccc(cc1)[N+]([O-])=O)c1ccccc1	100000
+Oc1c2C(NC3(C(=O)c4ccccc4C3=O)c2c(O)n1-c1ccc(Cl)c(Cl)c1)c1ccccc1	100000
+COC(=O)C1NC(c2c(O)n(c(O)c12)-c1ccc(Cl)c(Cl)c1)c1ccccc1	100000
+Cc1ccc(cc1)C1OC2(C(=O)c3ccccc3C2=O)c2c(O)n(c(O)c12)-c1ccc2OCOc2c1	100000
+Clc1ccc(NC(=O)[C@H]2[C@@H](O[C@@]34[C@@H](OC(=O)[C@@H]23)c2ccccc2C4=O)c2ccccc2)cc1Cl	3100
+Clc1ccc(NC(=O)[C@H]2[C@@H](O[C@@]34[C@@H](OC(=O)[C@@H]23)c2ccccc2C4=O)c2ccccc2)cc1Cl	2600
+O[C@H]1c2ccccc2[C@@H]2OC(=O)[C@H]3[C@H]([C@@H](O[C@@]123)c1ccccc1)C(=O)Nc1ccc(Cl)c(Cl)c1	260
+OC1c2ccccc2C2OC(=O)[C@@H]3[C@@H]([C@@H](O[C@@]123)c1ccccc1)C(=O)Nc1ccc(Cl)c(Cl)c1	100000
+O[C@@H]1c2ccccc2[C@@H]2OC(=O)[C@H]3[C@H]([C@@H](O[C@@]123)c1ccccc1)C(=O)Nc1ccc(Cl)c(Cl)c1	510
+OC1c2ccccc2C2OC(=O)[C@@H]3[C@@H]([C@@H](O[C@@]123)c1ccccc1)C(=O)Nc1ccc(Cl)c(Cl)c1	14000
+OC(=O)[C@@H]1[C@@H]([C@@H](OC11C(=O)c2ccccc2C1=O)c1ccccc1)C(=O)Nc1ccc(Cl)c(Cl)c1	11000

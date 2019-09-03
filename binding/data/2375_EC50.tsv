@@ -1,0 +1,25 @@
+A-kinase anchor protein 7 isoform gamma
+MERPEAGGINSNECENVSRKKKMSEEFEANTMDSLVDMPFATVDIQDDCGITDEPQINLKRSQENEWVKSDQVKKRKKKRKDYQPNYFLSIPITNKEIIKGIKILQNAIIQQDERLAKAMVSDGSFHITLLVMQLLNEDEVNIGIDALLELKPFIEELLQGKHLTLPFQGIGTFGNQVGFVKLAEGDHVNSLLEIAETANRTFQEKGILVGESRSFKPHLTFMKLSKSPWLRKNGVKKIDPDLYEKFISHRFGEEILYRIDLCSMLKKKQSNGYYHCESSIVIGEKNGGEPDDAELVRLSKRLVENAVLKAVQQYLEETQNKNKPGEGSSVKTEAADQNGNDNENNRK
+CC(C)(C)c1ccc(CN(Cc2nc(cs2)C(O)=O)Cc2ccc(F)cc2)cc1	41600
+OC(=O)c1csc(CN(Cc2ccc(F)cc2)Cc2cccc(Cl)c2)n1	36400
+Cc1ccc(CN(Cc2nc(cs2)C(O)=O)Cc2ccc(F)cc2)cc1	137000
+OC(=O)c1csc(CN(Cc2ccc(F)cc2)Cc2ccc(OCc3ccccc3)cc2)n1	39500
+OC(=O)c1csc(CN(CCC(c2ccccc2)c2ccccc2)Cc2ccccc2F)n1	10600
+OC(=O)c1csc(CN(Cc2ccc(F)cc2)Cc2cccc(c2)C(F)(F)F)n1	60500
+OC(=O)c1csc(CN(CCC(c2ccccc2)c2ccccc2)Cc2ccc(F)cc2)n1	18000
+OC(=O)c1csc(CN(Cc2ccc(F)cc2)Cc2ccc(Cl)cc2)n1	94300
+CC(C)(C)c1ccc(CN(CCC(c2ccccc2)c2ccccc2)Cc2nc(cs2)C(O)=O)cc1	21100
+Cc1ccc(CN(Cc2nc(cs2)C(O)=O)Cc2cccc(c2)C(F)(F)F)cc1	98300
+COc1ccc(CN(Cc2nc(cs2)C(O)=O)Cc2ccc(F)cc2)cc1	25600
+OC(=O)c1csc(CN(Cc2cccc(c2)C(F)(F)F)Cc2ccccc2F)n1	215900
+Cc1ccc(CN(CCC(c2ccccc2)c2ccccc2)Cc2nc(cs2)C(O)=O)cc1	35400
+[O-][N+](=O)c1ccc(CN(Cc2ccccc2)Cc2ccc(cc2)[N+]([O-])=O)cc1	7500
+OC(=O)c1ccc(CN(Cc2ccccc2)Cc2ccc(cc2)C(O)=O)cc1	29600
+Fc1ccc(NC(=O)Nc2ccc(CN(Cc3ccccc3)Cc3ccc(NC(=O)Nc4ccc(F)cc4)cc3)cc2)cc1	9300
+Nc1ccc(CN(Cc2ccccc2)Cc2ccc(N)cc2)cc1	3800
+O=C(Nc1ccccc1)Nc1ccc(CN(Cc2ccccc2)Cc2ccc(NC(=O)Nc3ccccc3)cc2)cc1	3600
+CCN(CC)c1ccc(CN(Cc2ccccc2)Cc2ccc(cc2)N(CC)CC)cc1	2900
+Cc1ccc(NC(=O)Nc2ccc(CN(Cc3ccc(NC(=O)Nc4ccc(C)cc4)cc3)Cc3ccc(NC(=O)Nc4ccc(C)cc4)cc3)cc2)cc1	5200
+[NH3+]c1ccc(C[NH+](Cc2ccc([NH3+])cc2)Cc2ccc([NH3+])cc2)cc1	22200
+CN(C)c1ccc(C[NH+](Cc2ccccc2)Cc2ccc(cc2)N(C)C)cc1	2000
+Cc1ccc(NC(=O)Nc2ccc(CN(Cc3ccccc3)Cc3ccc(NC(=O)Nc4ccc(C)cc4)cc3)cc2)cc1	2500

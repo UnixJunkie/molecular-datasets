@@ -1,0 +1,20 @@
+Dihydrofolate Reductase (DHFR)
+MIVSFMVAMDENRVIGKDNNLPWRLPSELQYVKKTTMGHPLIMGRKNYEAIGRPLPGRRNIIVTRNEGYHVEGCEVAHSVEEVFELCKNEEEIFIFGGAQIYDLFLPYVDKLYITKIHHAFEGDTFFPEMDMTNWKEVFVEKGLTDEKNPYTYYYHVYEKQQ
+COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC	24100
+COc1cc(CC#Cc2c(C)nc(N)nc2N)cc(OC)c1OC	1250
+CCc1nc(N)nc(N)c1C#CCc1cc(OC)c(OC)c(OC)c1	320
+COc1cc(cc(OC)c1OC)C(C)C#Cc1c(C)nc(N)nc1N	10200
+CCC(C#Cc1c(C)nc(N)nc1N)c1cc(OC)c(OC)c(OC)c1	3370
+COc1cc(cc(OC)c1OC)C(O)C#Cc1c(C)nc(N)nc1N	4890
+COC(C#Cc1c(C)nc(N)nc1N)c1cc(OC)c(OC)c(OC)c1	9810
+COc1cc(cc(OC)c1OC)C(C)(C)C#Cc1c(C)nc(N)nc1N	4280
+COc1ccc(OC)c(CC#Cc2c(C)nc(N)nc2N)c1	360
+CCc1nc(N)nc(N)c1C#CCc1cc(OC)ccc1OC	300
+CCc1nc(N)nc(N)c1C#CCc1cccc(c1)-c1ccccc1	370
+CCc1nc(N)nc(N)c1C#CCc1cc(ccc1OC)-c1ccccc1	1210
+CCc1nc(N)nc(N)c1C#CCc1cc(OC)ccc1-c1ccccc1	2590
+CCc1nc(N)nc(N)c1C#CCc1cc(OC)cc(c1)-c1ccccc1	330
+COc1cc(cc(c1)-c1ccccc1)C(C)C#Cc1c(C)nc(N)nc1N	2660
+COc1cc(c(OC)cc1C(C)C#Cc1c(C)nc(N)nc1N)-c1ccccc1	5160
+COc1cc(ccc1-c1ccccc1)C(C)C#Cc1c(C)nc(N)nc1N	5830
+COc1cc(ccc1C(C)C#Cc1c(C)nc(N)nc1N)-c1ccccc1	11700

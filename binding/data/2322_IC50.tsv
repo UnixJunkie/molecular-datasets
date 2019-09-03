@@ -1,0 +1,17 @@
+Protein phosphatase 1 regulatory subunit 1A (PP1)
+MEQDNSPRKIQFTVPLLEPHLDPEAAEQIRRRRPTPATLVLTSDQSSPEIDEDRIPNPHLKSTLAMSPRQRKKMTRITPTMKELQMMVEHHLGQQQQGEEPEGAAESTETQESRPPGIPDTEVESRLGTSGTAKKTAECIPKTHERGSKEPSTKEPSTHIPPLDSKGANSV
+COC[C@@H](C(O)[C@H](O)C(=O)NCCC(C)c1nc(\C=C\CC2OC3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)OC)[C@H](OP(O)(O)=O)C3(C)C)co1)N(C)C	8.2
+CO[C@@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)[C@H]1OC2(C[C@@H](O)[C@H](C)C(C\C=C\C#N)O2)C(C)(C)[C@H]1OP(O)(O)=O	14.0
+COC[C@@H](C(O)[C@H](O)C(=O)NCCC(C)c1nc(\C=C\CC2OC3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@@H]2OC(C)(C)O[C@H](C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)C2C)OC)[C@H](OP(O)(O)=O)C3(C)C)co1)N(C)C	10000.0
+COC[C@@H](C(O)[C@H](O)C(=O)NCCC(C)c1nc(\C=C\CC2OC3(C[C@@H](OC(C)=O)[C@@H]2C)O[C@H]([C@H](C[C@H](OC(C)=O)C(C)[C@H](OC(C)=O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)OC)[C@H](OP(O)(O)=O)C3(C)C)co1)N(C)C	10000.0
+COC[C@@H](C(O)[C@H](O)C(=O)NCCC(C)c1nc(\C=C\CC2OC3(C[C@@H](OC(C)=O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)OC)[C@H](OP(O)(O)=O)C3(C)C)co1)N(C)C	13.0
+CC[C@H](O)CC1(OCC\C=C\c2coc(n2)C(C)CCNC(=O)[C@@H](O)C(O)[C@H](COC)N(C)C)O[C@H]([C@H](C[C@H](O)C(C)C2OC(C)([C@H](Br)[C@H]2C)C(\C)=C\C=C\C(\C)=C\C#N)OC)[C@H](OP(O)(O)=O)C1(C)C	105.0
+CO[C@@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)[C@H]1OC2(C[C@@H](O)[C@H](C)C(C\C=C\c3coc(n3)C(C)CCNC(=O)CO)O2)C(C)(C)[C@H]1OP(O)(O)=O	9.0
+CO[C@@H](C[C@H](O)C(C)[C@H](O)C(C)CO)[C@H]1OC2(C[C@@H](O)[C@H](C)C(CCO)O2)C(C)(C)[C@H]1OP(O)(O)=O	10000.0
+COC[C@@H](C(O)[C@H](O)C(=O)NCCC(C)c1nc(\C=C\CC2OC3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)OC)[C@H](O)C3(C)C)co1)N(C)C	10000.0
+COC[C@@H](C(O)[C@H](O)C(=O)NCCC(C)c1nc(\C=C\CC2OC3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C(N)=O)OC)[C@H](OP(O)(O)=O)C3(C)C)co1)N(C)C	5.0
+COC[C@@H](C(O)[C@H](O)C(=O)NCCC(C)c1nc(\C=C\CC2OC3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)OC)[C@H](OP(O)(O)=O)C3(C)C)co1)N(C)C	112.0
+CN[C@@H](COC)C(O)[C@H](O)C(=O)NCCC(C)c1nc(\C=C\CC2OC3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)OC)[C@H](OP(O)(O)=O)C3(C)C)co1	11.0
+COC[C@@H](C(O)[C@H](O)C(=O)NCCC(C)c1nc(\C=C\CC2OC3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)OC)[C@H](OP(O)(O)=O)C3(C)C)co1)N(C)C	185.0
+COC[C@@H](C(O)[C@H](O)C(=O)NCCC(C)c1nc(\C=C\CC2OC3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)OC)[C@H](OP(O)(O)=O)C3(C)C)co1)N(C)C	55.0
+COC[C@@H](C(O)[C@H](O)C(=O)NC(C)CC(C)c1nc(\C=C\CC2OC3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)C(C)[C@H](O)C(C)\C=C(/C)\C(\C)=C\C=C\C(\C)=C\C#N)OC)[C@H](OP(O)(O)=O)C3(C)C)co1)N(C)C	29.0

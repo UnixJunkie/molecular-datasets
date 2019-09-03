@@ -1,0 +1,24 @@
+2-amino-3-carboxymuconate-6-semialdehyde decarboxylase
+MKIDIHSHILPKEWPDLKKRFGYGGWVQLQHHSKGEAKLLKDGKVFRVVRENCWDPEVRIREMDQKGVTVQALSTVPVMFSYWAKPEDTLNLCQLLNNDLASTVVSYPRRFVGLGTLPMQAPELAVKEMERCVKELGFPGVQIGTHVNEWDLNAQELFPVYAAAERLKCSLFVHPWDMQMDGRMAKYWLPWLVGMPAETTIAICSMIMGGVFEKFPKLKVCFAHGGGAFPFTVGRISHGFSMRPDLCAQDNPMNPKKYLGSFYTDALVHDPLSLKLLTDVIGKDKVILGTDYPFPLGELEPGKLIESMEEFDEETKNKLKAGNALAFLGLERKQFE
+OC(=O)c1cccc(CSc2nc(-c3ccccc3)c(C#N)c(=O)[nH]2)c1	50.0
+OC(=O)c1cccc(CSc2nc(-c3ccco3)c(C#N)c(=O)[nH]2)c1	66.0
+OC(=O)c1cccc(CSc2nc(-c3ccsc3)c(C#N)c(=O)[nH]2)c1	31.0
+OC(=O)c1cccc(CSc2nc(-c3cccs3)c(C#N)c(=O)[nH]2)c1	12.0
+OC(=O)c1cccc(CSc2nc(-c3nccs3)c(C#N)c(=O)[nH]2)c1	49.0
+OC(=O)c1cccc(CSc2nc(C3CCCCC3)c(C#N)c(=O)[nH]2)c1	77.0
+OC(=O)c1cccc(CSc2nc(-c3ccncc3)c(C#N)c(=O)[nH]2)c1	82.0
+OC(=O)c1ccc(CSc2nc(-c3ccc(Cl)cc3)c(C#N)c(=O)[nH]2)cc1	82.0
+CCOC(=O)c1cccc(CSc2nc(-c3ccc(C)cc3)c(C#N)c(=O)[nH]2)c1	960.0
+Cc1nc(SCc2cccc(c2)C(O)=O)[nH]c(=O)c1C#N	1700.0
+OC(=O)c1cccc(CSc2nc(-c3ccccc3)c(Br)c(=O)[nH]2)c1	71.0
+OC(=O)c1cccc(CSc2nc(-c3cccs3)c(Br)c(=O)[nH]2)c1	88.0
+OC(=O)c1cccc(CSc2nc(-c3ccccc3)c(Cl)c(=O)[nH]2)c1	136.0
+OC(=O)c1cccc(CSc2nc(cc(=O)[nH]2)-c2ccccc2)c1	740.0
+OC(=O)c1cccc(CSc2nc(cc(=O)[nH]2)-c2cccs2)c1	760.0
+OC(=O)c1ccc(CSc2nc(-c3ccccc3)c(C#N)c(=O)[nH]2)cc1	110.0
+O=c1[nH]c(SCc2cccc(c2)-c2nn[nH]n2)nc(-c2cccs2)c1C#N	5.0
+OC(=O)Cc1cccc(CSc2nc(-c3cccs3)c(C#N)c(=O)[nH]2)c1	10.0
+O=c1[nH]c(no1)-c1cccc(CSc2nc(-c3cccs3)c(C#N)c(=O)[nH]2)c1	25.0
+CC(Sc1nc(-c2ccccc2)c(C#N)c(=O)[nH]1)C(O)=O	1990.0
+OC(=O)c1cccc(CSc2nc(Cl)c(C#N)c(n2)-c2ccccc2)c1	1100.0
+Oc1ccccc1NC(=O)CSc1nc(-c2cccs2)c(C#N)c(=O)[nH]1	4900.0

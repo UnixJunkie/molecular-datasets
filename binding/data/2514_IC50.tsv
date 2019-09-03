@@ -1,0 +1,18 @@
+Pyrimidinergic receptor P2Y6
+MEWDNGTGQALGLPPTTCVYRENFKQLLLPPVYSAVLAAGLPLNICVITQICTSRRALTRTAVYTLNLALADLLYACSLPLLIYNYAQGDHWPFGDFACRLVRFLFYANLHGSILFLTCISFQRYLGICHPLAPWHKRGGRRAAWLVCVAVWLAVTTQCLPTAIFAATGIQRNRTVCYDLSPPALATHYMPYGMALTVIGFLLPFAALLACYCLLACRLCRQDGPAEPVAQERRGKAARMAVVVAAAFAISFLPFHITKTAYLAVRSTPGVPCTVLEAFAAAYKGTRPFASANSVLDPILFYFTQKKFRRRPHELLQKLTAKWQRQGR
+[Na+].[Na+].O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP([O-])(=O)OS([O-])(=O)=O)n1ccc(=O)[nH]c1=O	112000
+Cc1ccc(cc1NC(=O)c1cccc(NC(=O)Nc2cccc(c2)C(=O)Nc2cc(ccc2C)C(=O)Nc2ccc(c3cc(cc(c23)S(O)(=O)=O)S(O)(=O)=O)S(O)(=O)=O)c1)C(=O)Nc1ccc(c2cc(cc(c12)S(O)(=O)=O)S(O)(=O)=O)S(O)(=O)=O	27000
+Cc1cc(N=Nc2ccc(cc2S([O-])(=O)=O)S([O-])(=O)=O)c(COP([O-])([O-])=O)c(C=O)c1O	69000
+Nc1c2C(=O)c3ccccc3C(=O)c2c(Nc2ccccc2)cc1S([O-])(=O)=O	84600
+Cc1cccc(Nc2cc(c(N)c3C(=O)c4ccccc4C(=O)c23)S([O-])(=O)=O)c1	3920
+Nc1c(cc(Nc2ccc(O)cc2)c2C(=O)c3ccccc3C(=O)c12)S([O-])(=O)=O	5300
+COc1cccc(Nc2cc(c(N)c3C(=O)c4ccccc4C(=O)c23)S([O-])(=O)=O)c1	10000
+Nc1c(cc(Nc2cccc(Cl)c2)c2C(=O)c3ccccc3C(=O)c12)S([O-])(=O)=O	10000
+Nc1c(cc(Nc2cccc(Cc3ccccc3)c2)c2C(=O)c3ccccc3C(=O)c12)S([O-])(=O)=O	10000
+Nc1c(cc(Nc2cccc(Oc3ccccc3)c2)c2C(=O)c3ccccc3C(=O)c12)S([O-])(=O)=O	4560
+Nc1c(cc(Nc2ccc(c(Nc3nc(Cl)nc(Cl)n3)c2)S([O-])(=O)=O)c2C(=O)c3ccccc3C(=O)c12)S([O-])(=O)=O	10000
+Nc1c(cc(Nc2ccc(Nc3nc(Cl)nc(Nc4cccc(c4)S([O-])(=O)=O)n3)c(c2)S([O-])(=O)=O)c2C(=O)c3ccccc3C(=O)c12)S([O-])(=O)=O	4340
+Nc1c(cc(Nc2cc(Nc3nc(Cl)nc(Cl)n3)cc(c2)C(O)=O)c2C(=O)c3ccccc3C(=O)c12)S([O-])(=O)=O	2550
+Nc1c(cc(Nc2ccc(Nc3nc(Cl)nc(Cl)n3)cc2)c2C(=O)c3ccccc3C(=O)c12)S([O-])(=O)=O	10000
+Nc1c(cc(Nc2cccc(Nc3nc(Cl)nc(Cl)n3)c2)c2C(=O)c3ccccc3C(=O)c12)S([O-])(=O)=O	10000
+COc1nc(Cl)nc(Nc2ccc(Nc3cc(c(N)c4C(=O)c5ccccc5C(=O)c34)S([O-])(=O)=O)cc2S([O-])(=O)=O)n1	10000

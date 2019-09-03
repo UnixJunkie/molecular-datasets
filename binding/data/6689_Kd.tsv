@@ -1,0 +1,17 @@
+Tyrosine-protein kinase ABL1 (c-Abl)
+SPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGK
+Cc1nc(Nc2ncc(s2)C(=O)Nc2c(C)cccc2Cl)cc(n1)N1CCN(CCO)CC1	0.03
+Cc1nc(Nc2ncc(s2)C(=O)Nc2cccc(NC(=O)c3cccc(c3)C(F)(F)F)c2)cc(n1)N1CCN(CCO)CC1	2.2
+Cc1nc(Nc2ncc(s2)C(=O)Nc2cc(NC(=O)c3cccc(c3)C(F)(F)F)ccc2C)cc(n1)N1CCN(CCO)CC1	2.9
+Cc1nc(Nc2ncc(s2)C(=O)Nc2ccc(Oc3ccccc3)cc2)cc(n1)N1CCN(CCO)CC1	14.0
+Cc1nc(Nc2ncc(s2)C(=O)Nc2ccc(Oc3ccccc3)cc2C)cc(n1)N1CCN(CCO)CC1	0.32
+CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cccnc3)c2)CC1	1.5
+Cc1cn(cn1)-c1cc(NC(=O)c2ccc(C)c(Nc3nccc(n3)-c3cccnc3)c2)cc(c1)C(F)(F)F	11.0
+CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3cc(nn3-c3ccc4ncccc4c3)C(C)(C)C)c(F)c2)ccn1	7.2
+CN1CCN(Cc2ccc(NC(=O)c3ccc(C)c(c3)C#Cc3cnc4cccnn34)cc2C(F)(F)F)CC1	0.7
+Cc1cc(C)n2c1C=C1C=CC(CCC(=O)N3CCN(CC3)c3cc(Nc4ncc(s4)C(=O)Nc4c(C)cccc4Cl)nc(C)n3)=[N+]1[B-]2(F)F	0.15
+Cc1cc(C)n2c1C=C1C=CC(CCC(=O)N3CCN(CC3)c3cc(Nc4ncc(s4)C(=O)Nc4cc(NC(=O)c5cccc(c5)C(F)(F)F)ccc4C)nc(C)n3)=[N+]1[B-]2(F)F	0.75
+Cc1nc(Nc2ncc(s2)C(=O)Nc2cccc(NC(=O)c3cccc(c3)C(F)(F)F)c2)cc(n1)N1CCN(CCO)CC1	1.8
+Cc1nc(Nc2ncc(s2)C(=O)Nc2cc(NC(=O)c3cccc(c3)C(F)(F)F)ccc2C)cc(n1)N1CCN(CCO)CC1	2.0
+CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cccnc3)c2)CC1	24.0
+Cc1cn(cn1)-c1cc(NC(=O)c2ccc(C)c(Nc3nccc(n3)-c3cccnc3)c2)cc(c1)C(F)(F)F	15.0

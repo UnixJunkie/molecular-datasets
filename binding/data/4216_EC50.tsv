@@ -1,0 +1,16 @@
+Melanocortin receptor 3
+MNSSCCPSSSYPTLPNLSQHPAAPSASNRSGSGFCEQVFIKPEVFLALGIVSLMENILVILAVVRNGNLHSPMYFFLCSLAAADMLVSLSNSLETIMIVVINSDSLTLEDQFIQHMDNIFDSMICISLVASICNLLAIAVDRYVTIFYALRYHSIMTVRKALSLIVAIWVCCGICGVMFIVYSESKMVIVCLITMFFAMVLLMGTLYIHMFLFARLHVQRIAALPPADGVAPQQHSCMKGAVTITILLGVFIFCWAPFFLHLVLIITCPTNPYCICYTAHFNTYLVLIMCNSVIDPLIYAFRSLELRNTFKEILCGCNGMNVG
+Clc1ccc(C[C@@H](NC(=O)[C@H]2Cc3ccccc3CN2)C(=O)N2CCC(Cn3cncn3)(CC2)C2CCCCC2)cc1	1325.0
+CC(=O)NC(C)(C)[C@@H]1CC2(CCN(CC2)C(=O)[C@@H]2CN(C[C@H]2c2ccc(F)cc2F)C(C)(C)C)c2cc(Cl)c(C)cc12	997.0
+CCCC[C@H](NC(=O)[C@H](CO)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(C)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](Cc1cnc[nH]1)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)N[C@@H](C(C)C)C(N)=O	0.1
+C[C@@H](O)[C@H](NC(=O)[C@@H]1NC(=O)[C@@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H](Cc2cnc[nH]2)NC(=O)[C@H](CSSC1(C)C)NC(=O)[C@H](N)Cc1ccccc1)C(N)=O	64.0
+C[C@@H](O)[C@H](NC(=O)[C@H]1CCCCNC(=O)C[C@H](NC(=O)[C@@H](N)Cc2ccccc2)C(=O)N[C@@H](Cc2cnc[nH]2)C(=O)N[C@H](Cc2ccccc2)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@H](Cc2c[nH]c3ccccc23)C(=O)N1)C(N)=O	0.23
+C[C@@H](O)[C@H](NC(=O)[C@H]1CCSSC[C@H](NC(=O)[C@@H](N)Cc2ccccc2)C(=O)N[C@@H](Cc2cnc[nH]2)C(=O)N[C@H](Cc2ccccc2)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@H](Cc2c[nH]c3ccccc23)C(=O)N1)C(N)=O	75.0
+C[C@@H](O)[C@H](NC(=O)[C@H]1CSSC[C@H](NC(=O)[C@H](N)Cc2ccccc2)C(=O)N[C@@H](Cc2cnc[nH]2)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@H](Cc2c[nH]c3ccccc23)C(=O)N1)C(N)=O	3.0
+C[C@@H](O)[C@H](NC(=O)[C@H]1CSSC[C@H](NC(=O)[C@H](N)Cc2ccccc2)C(=O)N[C@H](Cc2cnc[nH]2)C(=O)N[C@H](Cc2ccccc2)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@H](Cc2c[nH]c3ccccc23)C(=O)N1)C(N)=O	0.23
+C[C@H](O)[C@@H](NC(=O)[C@H]1CSSC[C@H](NC(=O)[C@H](N)Cc2ccccc2)C(=O)N[C@@H](Cc2cnc[nH]2)C(=O)N[C@@H](Cc2ccc(Cl)cc2)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@H](Cc2c[nH]c3ccccc23)C(=O)N1)C(N)=O	7.3
+C[C@@H](O)[C@H](NC(=O)[C@H]1CSSC[C@H](NC(=O)[C@@H](N)Cc2ccccc2)C(=O)N[C@@H](Cc2cnc[nH]2)C(=O)N[C@H](Cc2ccccc2)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@H](Cc2c[nH]c3ccccc23)C(=O)N1)C(N)=O	3e-06
+C[C@@H](O)[C@H](NC(=O)[C@H]1CSSC[C@H](NC(=O)[C@H](N)Cc2ccccc2)C(=O)N[C@@H](Cc2ncc[nH]2)C(=O)N[C@H](Cc2cccc3ccccc23)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@H](Cc2c[nH]c3ccccc23)C(=O)N1)C(N)=O	5.2
+C[C@@H](O)[C@H](NC(=O)[C@H]1CSSC[C@H](NC(=O)[C@H](N)Cc2ccccc2)C(=O)N[C@@H](Cc2cnc[nH]2)C(=O)N[C@@H](Cc2ccccc2)C(=O)N(CCCN)CC(=O)N[C@H](Cc2c[nH]c3ccccc23)C(=O)N1)C(N)=O	660.0
+C[C@@H](O)[C@H](NC(=O)[C@H]1CSSC(C)(C)[C@H](NC(=O)[C@H](N)Cc2ccccc2)C(=O)N[C@@H](Cc2c[nH]cn2)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](CCCN)C(=O)N[C@H](Cc2c[nH]c3ccccc23)C(=O)N1)C(N)=O	59.0
+C[C@@H](O)[C@H](NC(=O)[C@H]1CSSC[C@H](NC(=O)[C@@H](N)Cc2ccccc2)C(=O)N[C@@H](Cc2cnc(C)[nH]2)C(=O)N[C@H](Cc2ccccc2)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@H](Cc2c[nH]c3ccccc23)C(=O)N1)C(N)=O	31.0

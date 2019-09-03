@@ -1,0 +1,9 @@
+Phosphodiesterase Type 6 (PDE6)
+MNLEPPKAEIRSATRVIGGPVTPRKGPPKFKQRQTRQFKSKPPKKGVQGFGDDIPGMEGLGTDITVICPWEAFNHLELHELAQYGII
+CCCc1nn(C)c2c1nc([nH]c2=O)-c1cc(ccc1OCC)S(=O)(=O)N1CCN(C)CC1	33.0
+CCN1CCN(CC1)S(=O)(=O)c1cnc(OCCOC)c(c1)-c1nc2c(CC)n(Cc3ccccn3)nc2c(=O)[nH]1	386.0
+CCCCOc1ncc(cc1-c1nc2c(CC)n(nc2c(=O)[nH]1)C1CN(CC)C1)C(C)=O	840.0
+CCCCOc1ncc(cc1-c1nc2c(CC)n(Cc3ccccn3)nc2c(=O)[nH]1)C(C)=O	183.0
+CCCCOc1ncc(cc1-c1nc2c(CC)n(nc2c(=O)[nH]1)C1CN(CC)C1)C(C)O	3000.0
+CCCc1nn(C)c2c1nc([nH]c2=O)-c1cc(ccc1OCC)C(=O)CN1CCOCC1	1.4
+CCCc1nn(C)c2c1nc([nH]c2=O)-c1cc(ccc1OCC)C(C)=O	0.9

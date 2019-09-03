@@ -1,0 +1,16 @@
+Dihydrofolate reductase
+MVRPLNCIVAVSQNMGIGKNGDLPWPLLRNEFKYFQRMTTTSSVEGKQNLVIMGRKTWFSIPEKNRPLKDRINIVLSRELKEPPQGAHFLAKSLDDALKLIEQPELASKVDMVWVVGGSSVYQEAMNQPGHLRLFVTRIMQEFESDTFFPEIDLEKYKLLPEYPGVLSEIQEEKGIKYKFEVYEKKD
+Nc1nc2ccc(CN(CC#C)c3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)cc2c(=O)[nH]1	75.0
+OC(=O)CC[C@H](NC(=O)c1ccc(cc1)N(CC#C)Cc1ccc2nc[nH]c(=O)c2c1)C(O)=O	2250.0
+Cc1nc2ccc(CN(CC#C)c3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)cc2c(=O)[nH]1	2660.0
+CCN(Cc1ccc2nc[nH]c(=O)c2c1)c1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O	58.0
+Nc1nc2ccc(CNc3ccc(cc3)C(=O)NC(CCC(O)=O)C(O)=O)cc2c(=O)[nH]1	0.58
+CCN(Cc1ccc2nc(N)[nH]c(=O)c2c1)c1ccc(cc1)C(=O)NC(CCC(O)=O)C(O)=O	3.9
+Nc1nc2ccc(CN(CC#C)c3ccc(cc3)C(=O)NC(CCC(O)=O)C(O)=O)cc2c(=O)[nH]1	75.0
+OC(=O)CCC(NC(=O)c1ccc(NCc2ccc3nc[nH]c(=O)c3c2)cc1)C(O)=O	11.0
+OC(=O)CCC(NC(=O)c1ccc(cc1)N(CC#C)Cc1ccc2nc[nH]c(=O)c2c1)C(O)=O	2250.0
+CCc1nc(N)nc(N)c1-c1ccc(N(C)Cc2ccc(cc2)C(=O)NC)c(c1)[N+]([O-])=O	0.00035
+CCc1nc(N)nc(N)c1-c1ccc(N(C)Cc2ccc(cc2)C(O)=O)c(c1)[N+]([O-])=O	0.0004
+Cc1nc(N)nc(N)c1-c1ccc(Cl)c(Cl)c1	0.12
+CCc1nc(N)nc(N)c1-c1ccc(N(C)Cc2ccc(cc2)C(=O)OC)c(c1)[N+]([O-])=O	0.013999999999999999
+CCc1nc(N)nc(N)c1-c1ccc(N(C)Cc2ccccc2)c(c1)[N+]([O-])=O	0.009000000000000001

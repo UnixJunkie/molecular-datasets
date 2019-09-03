@@ -1,0 +1,12 @@
+Chemokine CXCL12
+MNAKVVVVLVLVLTALCLSDGKPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNKRFKM
+[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].CCCCCO[C@H]1O[C@H](COS([O-])(=O)=O)[C@@H](O[C@@H]2O[C@H]([C@@H](O[C@H]3O[C@H](COS([O-])(=O)=O)[C@@H](O[C@@H]4O[C@H]([C@@H](O[C@H]5O[C@H](COS([O-])(=O)=O)[C@@H](O[C@@H]6O[C@H]([C@@H](O)[C@H](O)[C@H]6OS([O-])(=O)=O)C([O-])=O)[C@H](O)[C@H]5NC(C)=O)[C@H](O)[C@H]4OS([O-])(=O)=O)C([O-])=O)[C@H](O)[C@H]3NC(C)=O)[C@H](O)[C@H]2OS([O-])(=O)=O)C([O-])=O)[C@H](O)[C@H]1NC(C)=O	77000
+[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].NCCCCCO[C@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H]([C@@H](O[C@H]3O[C@H](CO)[C@@H](O[C@@H]4O[C@H]([C@@H](O[C@H]5O[C@H](CO)[C@@H](O[C@@H]6O[C@H]([C@@H](O)[C@H](O)[C@H]6OS([O-])(=O)=O)C([O-])=O)[C@H](O)[C@H]5NS([O-])(=O)=O)[C@H](O)[C@H]4OS([O-])(=O)=O)C([O-])=O)[C@H](O)[C@H]3NS([O-])(=O)=O)[C@H](O)[C@H]2OS([O-])(=O)=O)C([O-])=O)[C@H](O)[C@H]1NS([O-])(=O)=O	250000000
+[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].CCCCCO[C@H]1O[C@H](COS([O-])(=O)=O)[C@@H](O[C@@H]2O[C@H]([C@@H](O[C@H]3O[C@H](COS([O-])(=O)=O)[C@@H](O[C@@H]4O[C@H]([C@@H](O[C@H]5O[C@H](COS([O-])(=O)=O)[C@@H](O[C@@H]6O[C@H]([C@@H](O)[C@H](O)[C@H]6OS([O-])(=O)=O)C([O-])=O)[C@H](O)[C@H]5NC(C)=O)[C@H](O)[C@H]4OS([O-])(=O)=O)C([O-])=O)[C@H](O)[C@H]3NS([O-])(=O)=O)[C@H](O)[C@H]2O)C([O-])=O)[C@H](O)[C@H]1NC(C)=O	24000
+OC(=O)CNS(=O)(=O)c1ccc2C(=O)c3ccccc3C(=O)c2c1	1200000
+C[C@H](NC(=O)CCn1ccc2c(Cl)cccc12)C(O)=O	1700000
+CC(C)O.CCCOc1ccc(cc1)C(Nc1ccc(F)cc1)P(O)(O)=O	1100000
+OC(=O)CC1N(CCc2ccccc12)C(=O)Nc1cccc(F)c1	4100000
+Cc1ccc(NS(=O)(=O)c2ccc(OCC(O)=O)c(C)c2)cc1C	4100000
+CC(C)O.CCCOc1ccc(cc1)C(Nc1ccc(F)cc1)P(O)(O)=O	74000
+OC(=O)COc1nc(SCC(O)=O)nc(n1)-c1ccccc1	200000

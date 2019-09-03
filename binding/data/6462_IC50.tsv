@@ -1,0 +1,13 @@
+Cyclooxygenase
+PDASQDDGPAVERPSTEL
+COc1ccc2n(C(=O)c3ccc(Cl)cc3)c(C)c(CC(O)=O)c2c1	260.0
+Cc1ccc(cc1)-c1cc(nn1-c1ccc(cc1)S(N)(=O)=O)C(F)(F)F	100000.0
+NC(=O)c1cn(nc1-c1ccccc1)-c1ccc(cc1)S(N)(=O)=O	83620.0
+Cc1ccc(cc1)-c1nn(cc1C(N)=O)-c1ccc(cc1)S(N)(=O)=O	76410.0
+NS(=O)(=O)c1ccc(cc1)-n1cc(C#N)c(n1)-c1ccccc1	100000.0
+Cc1ccc(cc1)-c1nn(cc1C#N)-c1ccc(cc1)S(N)(=O)=O	94220.0
+O=C1COC(N1Cc1ccccc1)c1ccccc1	100000.0
+O=C1CSC(N1Cc1ccccc1)c1ccccc1	100000.0
+CC1OC(N(Cc2ccccc2)C1=O)c1ccccc1	85900.0
+CC1SC(N(Cc2ccccc2)C1=O)c1ccccc1	75600.0
+Cc1ccc(cc1)-c1cc(nn1-c1ccc(cc1)S(N)(=O)=O)C(F)(F)F	24300.0
