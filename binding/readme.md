@@ -1,1 +1,1 @@
-# `binding` collection
+# The `binding` collection

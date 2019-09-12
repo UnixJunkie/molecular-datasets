@@ -29,9 +29,9 @@ The collections have three main properties, which we report hereafter :
 
 | Collection      | Category  | # tasks | # molecules | # examples | density |
 | --------------- |:---------:| -------:| -----------:| ----------:| -------:|
-| `binding`       | measured  |   7 620 |     686 675 |  1 538 138 |   0.03% |
-| `antibacterial` | measured  |   3 842 |      27 178 |    104 804 |   0.10% |
-| `synthetic`     | synthetic |   2 000 |     666 501 |    1 200 M | 100.00% |
+| `binding`       | measured  |   7 620 |     686 675 |   1 538 K |   0.03% |
+| `antibacterial` | measured  |   3 842 |      27 178 |     105 K |   0.10% |
+| `synthetic`     | synthetic |   1 225 |     666 501 | 816 464 K | 100.00% |
 
 ### Description
 
