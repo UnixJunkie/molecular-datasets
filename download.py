@@ -1,4 +1,4 @@
-import requests
+from urllib.request import urlopen
 import os
 
 
@@ -20,33 +20,21 @@ if __name__ == '__main__':
 
     print()
 
-    while True:
-        print('>> Where should the data be located ? [./data/]')
-        root = input('   ') or './data/'
-
-        try:
-            os.makedirs(root)
-            break
-        except FileExistsError:
-            sure = input('   This folder is already used. Continue ? [y]/n\t').lower() in ['', 'y', 'yes']
-            if sure:
-                break
+    print('>> Where should the data be located ? [./data/]')
+    root = input('   ') or './data/'
 
     print('>> You can choose to download a limited amount of tasks (10) for testing purposes. Perform test dowload ? yes/[no]')
     test = input('   ').lower() in ['y', 'yes']
 
-    r = requests.get(TASKS_URL)
-    content = r.content.decode()
-    tasks = content.split('\n')
+    tasks = urlopen(TASKS_URL).read().split('\n')
 
     if test:
         tasks = tasks[:10]
 
+    os.makedirs(root)
+
     for task in tasks:
         path = os.path.join(root, f'{task}.csv')
-        t = requests.get(f'{BASE_URL}/{task}.csv').content.decode()
+        t = urllib2.urlopen(f'{BASE_URL}/{task}.csv').read()
         with open(f'{path}','w') as output:
           output.write(t)
-
-    print()
-    print('All done !')
