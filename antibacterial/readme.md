@@ -4,8 +4,8 @@
 
 |        Metric |       Value |
 | -------------:| -----------:|
-|       # tasks |       3 842 |
-|   # molecules |      27 178 |
-| cross-product | 104 417 876 |
-|    # examples |     104 804 |
+|       # tasks |       3 255 |
+|   # molecules |      26 993 |
+| cross-product |  87 862 215 |
+|    # examples |      90 048 |
 |       density |      0.10 % |
