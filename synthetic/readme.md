@@ -6,7 +6,7 @@ Unlike the `binding` collection however, our `synthetic` collection is dense : e
 
 The full collection (86GB) can be dowloaded with the following script (requires Python) :
 ```
-curl https://raw.githubusercontent.com/invivoai/molecular-datasets/master/synthetic/download.py > download.py --quiet && python download.py && rm download.py
+curl -s https://raw.githubusercontent.com/invivoai/molecular-datasets/master/synthetic/download.py > download.py && python download.py && rm download.py
 ```
 
 

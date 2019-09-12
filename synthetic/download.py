@@ -8,6 +8,7 @@ TASKS_URL = 'https://raw.githubusercontent.com/invivoai/molecular-datasets/maste
 
 if __name__ == '__main__':
 
+    print('\n')
     print('-' * 60)
     print(' Synthetic Collection Downloader '.center(60, '-'))
     print('-' * 60)
